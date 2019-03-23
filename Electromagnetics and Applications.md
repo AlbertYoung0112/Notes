@@ -8,7 +8,7 @@
 
 - Electric Field
 
-$$\vec{E}[\frac{v}{m}]=\frac{\vec{f}}{q}$$
+$$\vec{E}=\frac{\vec{f}}{q} [\frac{V}{m}]$$
 
 - Electric Displacement Vector
 
@@ -108,5 +108,6 @@ $$\vec{E}[\frac{v}{m}]=\frac{\vec{f}}{q}$$
 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MzcxNjAwLC0xNjE2MDM5ODU5XX0=
+eyJoaXN0b3J5IjpbLTY5MjA0Mzk5MCw5MzczNzE2MDAsLTE2MT
+YwMzk4NTldfQ==
 -->
