@@ -78,11 +78,11 @@ Note that there is only action potential for the last pulse, the expression only
 
     Adaptation is a slow process builds up over several spikes. The figure below shows the adaptation in the first several spikes.
 
-    ![Regularly-firing Neurons](./SNM-Img/RegularlyFiringNeurons.png)
+    ![Regularly-firing Neurons](https://raw.githubusercontent.com/AlbertYoung0112/Notes/master/SNM-Img/RegularlyFiringNeurons.png)
 
     SRM0 can well approximate another type of neurons, ***fast-spiking neurons*** , which show no adaptation.
     
-    ![Fast Spiking Neurons](./SNM-Img/FastSpikingNeurons.png)
+    ![Fast Spiking Neurons](https://raw.githubusercontent.com/AlbertYoung0112/Notes/master/SNM-Img/FastSpikingNeurons.png)
 
   - Cannot approximate the ***bursting neurons***
     
@@ -93,7 +93,7 @@ Note that there is only action potential for the last pulse, the expression only
   
     Post-inhibitory rebound occurs when inhibitory input is removed.
 
-    ![Rebound Spikes](./SNM-Img/ReboundSpike.png)
+    ![Rebound Spikes](https://raw.githubusercontent.com/AlbertYoung0112/Notes/master/SNM-Img/ReboundSpike.png)
 
 
 ## Neuronal Coding
@@ -105,5 +105,5 @@ Note that there is only action potential for the last pulse, the expression only
   Though commonly used, the code introduces significant laterncy which is originated from the low-pass feature of the time window.
 lalalal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTkyNDM5Myw2NDUyNjg3MjBdfQ==
+eyJoaXN0b3J5IjpbMjQyMTk3MzkwLDY0NTI2ODcyMF19
 -->
