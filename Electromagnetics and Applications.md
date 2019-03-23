@@ -38,12 +38,9 @@ $$\vec{E}[\frac{v}{m}]=\frac{\vec{f}}{q}$$
 	$$\oiint_A(\vec{D}\cdot\hat{n})da = \iiint_V \rho dv=Q$$
 
 - ***Ampere's Law***
+	
+	$$\oint_c\vec{H}\cdot d\vec{s}=\iint_A\vec{J}\cdot d\vec{a}$$
 
-  
-
-$$\oint_c\vec{H}\cdot d\vec{s}=\iint_A\vec{J}\cdot d\vec{a}$$
-
-  
 
 ## Introduction to Electrodynamics
 
@@ -99,17 +96,17 @@ $$\oint_c\vec{H}\cdot d\vec{s}=\iint_A\vec{J}\cdot d\vec{a}$$
 
   
 
-- ***Differential form of Maxwell's equations in VACUUM***
+	- ***Differential form of Maxwell's equations in VACUUM***
 
-$$\nabla\times\vec{E}=-\mu_0\frac{\partial\vec{H}}{\partial t} \tag{Faraday's Law in vacuum}$$
+		$$\nabla\times\vec{E}=-\mu_0\frac{\partial\vec{H}}{\partial t} \tag{Faraday's Law in vacuum}$$
 
-$$\nabla\times\vec{H}=\varepsilon_0\frac{\partial\vec{E}}{\partial t} \tag{Ampere's Law in vacuum}$$
+		$$\nabla\times\vec{H}=\varepsilon_0\frac{\partial\vec{E}}{\partial t} \tag{Ampere's Law in vacuum}$$
 
-$$\nabla\cdot\vec{E}=\rho \tag{Gauss's Law in vacuum}$$
+		$$\nabla\cdot\vec{E}=\rho \tag{Gauss's Law in vacuum}$$
 
-$$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
+		$$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
-
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3OTIzNTA1LC0xNjE2MDM5ODU5XX0=
+eyJoaXN0b3J5IjpbOTM3MzcxNjAwLC0xNjE2MDM5ODU5XX0=
 -->
