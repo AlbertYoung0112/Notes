@@ -110,8 +110,8 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 		
 		Computing the curl of the *Faraday's law in vacuum*, and replacing the $\nabla\times\vec{H}$ with *Amperes's law*, we got:
 		
-		$$\nabla\times(\nabla\)$$
+		$$\nabla\times(\nabla\times\vec{E})=-\mu_0\frac{\partial(\nabla\times\vec{H})}{\partial t}=-\varepsilon_0\mu_0\frac{\partial^2}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQ5ODUwNzYsNjk0ODMyNTg2LDkzNz
-M3MTYwMCwtMTYxNjAzOTg1OV19
+eyJoaXN0b3J5IjpbNTY3Nzk1MzAzLDY5NDgzMjU4Niw5MzczNz
+E2MDAsLTE2MTYwMzk4NTldfQ==
 -->
