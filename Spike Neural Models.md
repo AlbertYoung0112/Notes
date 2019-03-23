@@ -88,7 +88,7 @@ Note that there is only action potential for the last pulse, the expression only
     
     The bursting neurons fire the spike in separate groups.
 
-    ![Bursting Neurons](./SNM-Img/BurstingNeurons.png)
+    ![Bursting Neurons](https://raw.githubusercontent.com/AlbertYoung0112/Notes/master/SNM-Img/BurstingNeurons.png)
   - No ***post-inhibitory rebound***
   
     Post-inhibitory rebound occurs when inhibitory input is removed.
@@ -105,5 +105,5 @@ Note that there is only action potential for the last pulse, the expression only
   Though commonly used, the code introduces significant laterncy which is originated from the low-pass feature of the time window.
 lalalal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MjY4NzIwXX0=
+eyJoaXN0b3J5IjpbMTM5MTkyNDM5Myw2NDUyNjg3MjBdfQ==
 -->
