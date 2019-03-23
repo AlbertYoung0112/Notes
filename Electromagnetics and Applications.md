@@ -1,14 +1,6 @@
-
-
-
 # Notes on ***Electromagnetics and Applications***
 
-  
-
 ## Basics
-
-  
-
 - Lorentz Force Law
 
   
@@ -117,23 +109,21 @@ $$\oint_c\vec{H}\cdot d\vec{s}=\iint_A\vec{J}\cdot d\vec{a}$$
 
   
 
-- Constitutive Relations in **VACUUM**
+	- Constitutive Relations in **VACUUM**
 
-	- $\vec{D}=\varepsilon_0\vec{E}$, where the *permittivity of vacuum* $\varepsilon_0\approx 8.8532\times10^{-12} farads/m$
+		- $\vec{D}=\varepsilon_0\vec{E}$, where the *permittivity of vacuum* $\varepsilon_0\approx 8.8532\times10^{-12} farads/m$
 
-	- $\vec{B}=\mu_0\vec{H}$, where *permeability of vacuum* $\mu_0=4\pi\times10^{-7} henries/m$
+		- $\vec{B}=\mu_0\vec{H}$, where *permeability of vacuum* $\mu_0=4\pi\times10^{-7} henries/m$
 
-	- $\vec{J}=\rho\vec{v}=\sigma\vec{E}$, where $v$ is the velocity of the local net charge density $\rho$, and $\sigma$ is the *conductivity* of the medium (*Siemems/m*).
+		- $\vec{J}=\rho\vec{v}=\sigma\vec{E}$, where $v$ is the velocity of the local net charge density $\rho$, and $\sigma$ is the *conductivity* of the medium (*Siemems/m*).
 
-- Requirement: Conservation of charge
+	- Requirement: Conservation of charge
 
-  
+		$$\because \nabla\cdot(\nabla\times\vec{A})=0$$
 
-	$$\because \nabla\cdot(\nabla\times\vec{A})=0$$
+		$$\therefore \nabla\cdot(\nabla\times\vec{H})=0=\nabla\cdot\frac{\partial\vec{D}}{\partial t} + \nabla\cdot\vec{J}$$
 
-	$$\therefore \nabla\cdot(\nabla\times\vec{H})=0=\nabla\cdot\frac{\partial\vec{D}}{\partial t} + \nabla\cdot\vec{J}$$
-
-	$$\therefore \nabla\cdot\vec{J}=-\nabla\cdot\frac{\partial\vec{D}}{\partial t} \xlongequal{Gauss's law}-\frac{\partial \rho}{\partial t}$$
+		$$\therefore \nabla\cdot\vec{J}=-\nabla\cdot\frac{\partial\vec{D}}{\partial t} \xlongequal{Gauss's law}-\frac{\partial \rho}{\partial t}$$
 
   
 
@@ -153,5 +143,5 @@ $$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjY4Njg5LC0xNjE2MDM5ODU5XX0=
+eyJoaXN0b3J5IjpbLTc2NjU4MDUzNSwtMTYxNjAzOTg1OV19
 -->
