@@ -116,8 +116,8 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\therefore\nabla\times(\nabla\times\vec{E})=\nabla(\nabla\cdot\vec{E})-\nabla^2\vec{E}\xlongequal{Gauss's law}-\nabla^2\vec{E}$$
 
-		$$\therefore\nabla^2\vec{E}-\mu_0\varepsilon_0\frac{\partial^2\vec{}}{}$$
+		$$\therefore\nabla^2\vec{E}-\mu_0\varepsilon_0\frac{\partial^2\vec{E}}{\partial t^2}=0 \tag{Helmholtz Wave Equation}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwOTU2NjEzLDY5NDgzMjU4Niw5MzczNz
-E2MDAsLTE2MTYwMzk4NTldfQ==
+eyJoaXN0b3J5IjpbLTcxNTE1NTA2MCw2OTQ4MzI1ODYsOTM3Mz
+cxNjAwLC0xNjE2MDM5ODU5XX0=
 -->
