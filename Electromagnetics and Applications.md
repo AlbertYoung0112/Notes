@@ -123,8 +123,11 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\vec{E}''=\mu_0\varepsilon_0(-c)^2\vec{E}''$$
 
-		$$\Longrightarrow c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}\approx2.998\times10^8$$
+		$$\Longrightarrow c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}\approx2.998\times10^8 [m/s]$$
+	- ***Polarization***
+		***Polarization*** of a wave refers to the direction of its electric vector
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTIxMjAwNSw2OTQ4MzI1ODYsOTM3Mz
+eyJoaXN0b3J5IjpbLTU4NDE2OTgxNCw2OTQ4MzI1ODYsOTM3Mz
 cxNjAwLC0xNjE2MDM5ODU5XX0=
 -->
