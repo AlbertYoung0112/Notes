@@ -4,11 +4,11 @@
 
 - Lorentz Force Law
 	
-	$$\vec{f}[N] = q(\vec{E}\times\mu_0 \vec{H})$$
+	$$\vec{f} = q(\vec{E}\times\mu_0 \vec{H})$$
 
 - Electric Field
 
-$$\vec{E}=\frac{\vec{f}}{q} [\frac{V}{m}]$$
+$$\vec{E}=\frac{\vec{f}}{q}$$
 
 - Electric Displacement Vector
 
@@ -108,6 +108,6 @@ $$\vec{E}=\frac{\vec{f}}{q} [\frac{V}{m}]$$
 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjA0Mzk5MCw5MzczNzE2MDAsLTE2MT
+eyJoaXN0b3J5IjpbLTM1MDY3NzYxMyw5MzczNzE2MDAsLTE2MT
 YwMzk4NTldfQ==
 -->
