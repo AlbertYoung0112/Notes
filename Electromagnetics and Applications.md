@@ -91,49 +91,49 @@ $$\oint_c\vec{H}\cdot d\vec{s}=\iint_A\vec{J}\cdot d\vec{a}$$
 
   
 
-$$\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \tag{Faraday's Law}$$
+	$$\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \tag{Faraday's Law}$$
 
-$$\nabla\times\vec{H}=\vec{J}+\frac{\partial\vec{D}}{\partial t} \tag{Ampere's Law}$$
+	$$\nabla\times\vec{H}=\vec{J}+\frac{\partial\vec{D}}{\partial t} \tag{Ampere's Law}$$
 
-$$\nabla\cdot\vec{D}=\rho \tag{Gauss's Law}$$
+	$$\nabla\cdot\vec{D}=\rho \tag{Gauss's Law}$$
 
-$$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
+	$$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
   
 
-- Field variables:
+	- Field variables:
 
-	- $\vec{E}$, *electric field*, $V/m$;
+		- $\vec{E}$, *electric field*, $V/m$;
 
-	- $\vec{H}$, *magnetic field*, $A/m$;
+		- $\vec{H}$, *magnetic field*, $A/m$;
 
-	- $\vec{B}$, *magnetic flux density*, $T$;
+		- $\vec{B}$, *magnetic flux density*, $T$;
 
-	- $\vec{D}$, *electric displacement*, $C/m^2$;
+		- $\vec{D}$, *electric displacement*, $C/m^2$;
 
-	- $\vec{J}$, *electric current density*, $A/m^2$;
+		- $\vec{J}$, *electric current density*, $A/m^2$;
 
-	- $\rho$, *electric charge density*, $C/m^3$;
+		- $\rho$, *electric charge density*, $C/m^3$;
 
   
 
 - Constitutive Relations in **VACUUM**
 
-- $\vec{D}=\varepsilon_0\vec{E}$, where the *permittivity of vacuum* $\varepsilon_0\approx 8.8532\times10^{-12} farads/m$
+	- $\vec{D}=\varepsilon_0\vec{E}$, where the *permittivity of vacuum* $\varepsilon_0\approx 8.8532\times10^{-12} farads/m$
 
-- $\vec{B}=\mu_0\vec{H}$, where *permeability of vacuum* $\mu_0=4\pi\times10^{-7} henries/m$
+	- $\vec{B}=\mu_0\vec{H}$, where *permeability of vacuum* $\mu_0=4\pi\times10^{-7} henries/m$
 
-- $\vec{J}=\rho\vec{v}=\sigma\vec{E}$, where $v$ is the velocity of the local net charge density $\rho$, and $\sigma$ is the *conductivity* of the medium (*Siemems/m*).
+	- $\vec{J}=\rho\vec{v}=\sigma\vec{E}$, where $v$ is the velocity of the local net charge density $\rho$, and $\sigma$ is the *conductivity* of the medium (*Siemems/m*).
 
 - Requirement: Conservation of charge
 
   
 
-$$\because \nabla\cdot(\nabla\times\vec{A})=0$$
+	$$\because \nabla\cdot(\nabla\times\vec{A})=0$$
 
-$$\therefore \nabla\cdot(\nabla\times\vec{H})=0=\nabla\cdot\frac{\partial\vec{D}}{\partial t} + \nabla\cdot\vec{J}$$
+	$$\therefore \nabla\cdot(\nabla\times\vec{H})=0=\nabla\cdot\frac{\partial\vec{D}}{\partial t} + \nabla\cdot\vec{J}$$
 
-$$\therefore \nabla\cdot\vec{J}=-\nabla\cdot\frac{\partial\vec{D}}{\partial t} \xlongequal{Gauss's law}-\frac{\partial \rho}{\partial t}$$
+	$$\therefore \nabla\cdot\vec{J}=-\nabla\cdot\frac{\partial\vec{D}}{\partial t} \xlongequal{Gauss's law}-\frac{\partial \rho}{\partial t}$$
 
   
 
@@ -153,5 +153,5 @@ $$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQwOTU0NSwtMTYxNjAzOTg1OV19
+eyJoaXN0b3J5IjpbMTYyNjY4Njg5LC0xNjE2MDM5ODU5XX0=
 -->
