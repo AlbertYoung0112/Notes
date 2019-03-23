@@ -118,7 +118,9 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\therefore\nabla^2\vec{E}-\mu_0\varepsilon_0\frac{\partial^2\vec{E}}{\partial t^2}=0 \tag{Helmholtz Wave Equation}$$
 	- The velocity of light
+	
+		Take $\vec{E}(\vec{r}, t)=\hat{x}$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ2NDYwMTIsNjk0ODMyNTg2LDkzNz
-M3MTYwMCwtMTYxNjAzOTg1OV19
+eyJoaXN0b3J5IjpbMzYyMjI4NzA1LDY5NDgzMjU4Niw5MzczNz
+E2MDAsLTE2MTYwMzk4NTldfQ==
 -->
