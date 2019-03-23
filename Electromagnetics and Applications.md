@@ -1,73 +1,41 @@
 # Notes on ***Electromagnetics and Applications***
 
 ## Basics
+
 - Lorentz Force Law
-
-  
-
-$$\vec{f}[N] = q(\vec{E}\times\mu_0 \vec{H})$$
+	
+	$$\vec{f}[N] = q(\vec{E}\times\mu_0 \vec{H})$$
 
 - Electric Field
 
-  
-
 $$\vec{E}[\frac{v}{m}]=\frac{\vec{f}}{q}$$
-
-  
 
 - Electric Displacement Vector
 
-  
+	***Electric displacement vector***, denoted by $\vec{D}$, is a vector field that appears in *Maxwell's equations*. It accounts for the effects for the effects of *free and bounded charge* with in the materials.
 
-***Electric displacement vector***, denoted by $\vec{D}$, is a vector field that appears in *Maxwell's equations*. It accounts for the effects for the effects of *free and bounded charge* with in the materials.
+	- Free charge
+		
+		Free charges are the excess charges which can move into electrostatic equilibrium
+		
+	- Bounded charge
 
-  
+		Bound charges set up electric dipoles in response to an applied electric field $\vec{E}$, and polarize other nearby dipoles tending to line them up, the net accumulation of charge from the orientation of the dipoles is the bound charge.
 
-- Free charge
+	- Polarization density
+	
+		***Polarization density*** (or electric polarization, or simply polarization) is the vector field that expresses the density of permanent or induced electric dipole moments in a dielectric material.
+	
+		For a infinitesimal volume $dV$ with an infinitesimal dipole moment $d\vec{p}$, polarization density is:
+	
+		$$\vec{P}=\frac{d\vec{p}}{dV}$$
 
-  
+	- Defination of ***electric displacement vector***
 
-Free charges are the excess charges which can move into electrostatic equilibrium
-
-  
-
-- Bounded charge
-
-  
-
-Bound charges set up electric dipoles in response to an applied electric field $\vec{E}$, and polarize other nearby dipoles tending to line them up, the net accumulation of charge from the orientation of the dipoles is the bound charge.
-
-  
-
-- Polarization density
-
-  
-
-***Polarization density*** (or electric polarization, or simply polarization) is the vector field that expresses the density of permanent or induced electric dipole moments in a dielectric material.
-
-  
-
-For a infinitesimal volume $dV$ with an infinitesimal dipole moment $d\vec{p}$, polarization density is:
-
-  
-
-$$\vec{P}=\frac{d\vec{p}}{dV}$$
-
-- Defination of ***electric displacement vector***
-
-  
-
-$$\vec{D}=\varepsilon_0 \vec{E} + \vec{P}$$
-
-  
+		$$\vec{D}=\varepsilon_0 \vec{E} + \vec{P}$$
 
 - ***Gauss's Law for Charge***
-
-  
-
-$$\oiint_A(\vec{D}\cdot\hat{n})da = \iiint_V \rho dv=Q$$
-
-  
+	$$\oiint_A(\vec{D}\cdot\hat{n})da = \iiint_V \rho dv=Q$$
 
 - ***Ampere's Law***
 
@@ -143,5 +111,5 @@ $$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjU4MDUzNSwtMTYxNjAzOTg1OV19
+eyJoaXN0b3J5IjpbMjE3OTIzNTA1LC0xNjE2MDM5ODU5XX0=
 -->
