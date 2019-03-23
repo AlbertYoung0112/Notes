@@ -125,9 +125,11 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\Longrightarrow c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}\approx2.998\times10^8 [m/s]$$
 	- ***Polarization***
-		***Polarization*** of a wave refers to the direction of its electric vector. In the example above, the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ is called *x-polarized*, and if we re
+		***Polarization*** of a wave by convention refers to the direction of its electric vector. In the example above, the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ is called *x-polarized*.
+
+		If the fields are uniform with respect to two of the coordinates (x, y) so that $\frac{\partial\vec{E}}{\partial x}$
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjA3NDkwNSw2OTQ4MzI1ODYsOTM3Mz
-cxNjAwLC0xNjE2MDM5ODU5XX0=
+eyJoaXN0b3J5IjpbLTEyMjk4OTUyNDEsNjk0ODMyNTg2LDkzNz
+M3MTYwMCwtMTYxNjAzOTg1OV19
 -->
