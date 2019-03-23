@@ -106,8 +106,12 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
-	- 
+	- ***Helmholtz Wave Equation***
+		
+		Computing the curl of the *Faraday's law in vacuum*, and replacing the $\nabla\times\vec{H}$ with *Amperes's law*, we got:
+		
+		$$\nabla\times(\nabla\)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0ODMyNTg2LDkzNzM3MTYwMCwtMTYxNj
-AzOTg1OV19
+eyJoaXN0b3J5IjpbLTE2OTQ5ODUwNzYsNjk0ODMyNTg2LDkzNz
+M3MTYwMCwtMTYxNjAzOTg1OV19
 -->
