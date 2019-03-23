@@ -103,17 +103,17 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 - Field variables:
 
-- $\vec{E}$, *electric field*, $V/m$;
+	- $\vec{E}$, *electric field*, $V/m$;
 
-- $\vec{H}$, *magnetic field*, $A/m$;
+	- $\vec{H}$, *magnetic field*, $A/m$;
 
-- $\vec{B}$, *magnetic flux density*, $T$;
+	- $\vec{B}$, *magnetic flux density*, $T$;
 
-- $\vec{D}$, *electric displacement*, $C/m^2$;
+	- $\vec{D}$, *electric displacement*, $C/m^2$;
 
-- $\vec{J}$, *electric current density*, $A/m^2$;
+	- $\vec{J}$, *electric current density*, $A/m^2$;
 
-- $\rho$, *electric charge density*, $C/m^3$;
+	- $\rho$, *electric charge density*, $C/m^3$;
 
   
 
@@ -150,6 +150,8 @@ $$\nabla\times\vec{H}=\varepsilon_0\frac{\partial\vec{E}}{\partial t} \tag{Amper
 $$\nabla\cdot\vec{E}=\rho \tag{Gauss's Law in vacuum}$$
 
 $$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTYwMzk4NTldfQ==
+eyJoaXN0b3J5IjpbMTg5NjQwOTU0NSwtMTYxNjAzOTg1OV19
 -->
