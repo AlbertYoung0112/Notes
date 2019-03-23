@@ -102,12 +102,12 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\nabla\times\vec{H}=\varepsilon_0\frac{\partial\vec{E}}{\partial t} \tag{Ampere's Law in vacuum}$$
 
-		$$\nabla\cdot\vec{E}=\rho \tag{Gauss's Law in vacuum}$$
+		$$\nabla\cdot\vec{E}=0 \tag{Gauss's Law in vacuum}$$
 
 		$$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
 	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDY3NzYxMyw5MzczNzE2MDAsLTE2MT
-YwMzk4NTldfQ==
+eyJoaXN0b3J5IjpbNjk0ODMyNTg2LDkzNzM3MTYwMCwtMTYxNj
+AzOTg1OV19
 -->
