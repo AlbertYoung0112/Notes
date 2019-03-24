@@ -96,53 +96,53 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
   
 
-	- ***Differential form of Maxwell's equations in VACUUM***
+- ***Differential form of Maxwell's equations in VACUUM***
 
-		$$\nabla\times\vec{E}=-\mu_0\frac{\partial\vec{H}}{\partial t} \tag{Faraday's Law in vacuum}$$
+	$$\nabla\times\vec{E}=-\mu_0\frac{\partial\vec{H}}{\partial t} \tag{Faraday's Law in vacuum}$$
 
-		$$\nabla\times\vec{H}=\varepsilon_0\frac{\partial\vec{E}}{\partial t} \tag{Ampere's Law in vacuum}$$
+	$$\nabla\times\vec{H}=\varepsilon_0\frac{\partial\vec{E}}{\partial t} \tag{Ampere's Law in vacuum}$$
 
-		$$\nabla\cdot\vec{E}=0 \tag{Gauss's Law in vacuum}$$
+	$$\nabla\cdot\vec{E}=0 \tag{Gauss's Law in vacuum}$$
 
-		$$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
+	$$\nabla\cdot\vec{H}=0 \tag{Gauss's Law in vacuum}$$
 
-	- ***Helmholtz Wave Equation***
+- ***Helmholtz Wave Equation***
 		
-		Computing the curl of the *Faraday's law in vacuum*, and replacing the $\nabla\times\vec{H}$ with *Amperes's law*, we got:
+	Computing the curl of the *Faraday's law in vacuum*, and replacing the $\nabla\times\vec{H}$ with *Amperes's law*, we got:
 		
-		$$\nabla\times(\nabla\times\vec{E})=-\mu_0\frac{\partial(\nabla\times\vec{H})}{\partial t}\xlongequal{Ampere's Law}-\varepsilon_0\mu_0\frac{\partial^2\vec{E}}{\partial t^2}$$
+	$$\nabla\times(\nabla\times\vec{E})=-\mu_0\frac{\partial(\nabla\times\vec{H})}{\partial t}\xlongequal{Ampere's Law}-\varepsilon_0\mu_0\frac{\partial^2\vec{E}}{\partial t^2}$$
 
-		$$\because \nabla\times(\nabla\times\vec{A})=\nabla(\nabla\cdot\vec{A})-\nabla^2\vec{A}$$
+	$$\because \nabla\times(\nabla\times\vec{A})=\nabla(\nabla\cdot\vec{A})-\nabla^2\vec{A}$$
 
-		$$\therefore\nabla\times(\nabla\times\vec{E})=\nabla(\nabla\cdot\vec{E})-\nabla^2\vec{E}\xlongequal{Gauss's law}-\nabla^2\vec{E}$$
+	$$\therefore\nabla\times(\nabla\times\vec{E})=\nabla(\nabla\cdot\vec{E})-\nabla^2\vec{E}\xlongequal{Gauss's law}-\nabla^2\vec{E}$$
 
-		$$\therefore\nabla^2\vec{E}-\mu_0\varepsilon_0\frac{\partial^2\vec{E}}{\partial t^2}=0 \tag{Helmholtz Wave Equation}$$
-	- The velocity of light
+	$$\therefore\nabla^2\vec{E}-\mu_0\varepsilon_0\frac{\partial^2\vec{E}}{\partial t^2}=0 \tag{Helmholtz Wave Equation}$$
+- The velocity of light
 	
-		Take the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ as an example. Substitute it into the *Helmholtz Wave Equation*, yielding:
+	Take the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ as an example. Substitute it into the *Helmholtz Wave Equation*, yielding:
 
-		$$\vec{E}''=\mu_0\varepsilon_0(-c)^2\vec{E}''$$
+	$$\vec{E}''=\mu_0\varepsilon_0(-c)^2\vec{E}''$$
 
-		$$\Longrightarrow c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}\approx2.998\times10^8 [m/s]$$
-	- ***Polarization***
-		***Polarization*** of a wave by convention refers to the direction of its electric vector. In the example above, the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ is called *x-polarized*.
+	$$\Longrightarrow c=\frac{1}{\sqrt{\mu_0\varepsilon_0}}\approx2.998\times10^8 [m/s]$$
+- ***Polarization***
+	***Polarization*** of a wave by convention refers to the direction of its electric vector. In the example above, the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ is called *x-polarized*.
 
-		If the fields are uniform with respect to two of the coordinates (x, y) so that $\frac{\partial\vec{E}}{\partial x}=\frac{\partial\vec{E}}{\partial y}=0$, we have a ***uniform plane wave***.
-	- The magnetic field in uniform plane wave
-		Still, we take the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z - ct)$ as an example. $Using *Faraday's law*:
-		$$\frac{\partial \vec{H}}{\partial t}=-\frac{\nabla\times\vec{E}}{\mu_0}=-\hat{y}\frac{1}{\mu_0}\frac{\partial E_x}{\partial z}=-\hat{y}\frac{1}{\mu_0}E_x'$$
+	If the fields are uniform with respect to two of the coordinates (x, y) so that $\frac{\partial\vec{E}}{\partial x}=\frac{\partial\vec{E}}{\partial y}=0$, we have a ***uniform plane wave***.
+- The magnetic field in uniform plane wave
+	Still, we take the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z - ct)$ as an example. $Using *Faraday's law*:
+	$$\frac{\partial \vec{H}}{\partial t}=-\frac{\nabla\times\vec{E}}{\mu_0}=-\hat{y}\frac{1}{\mu_0}\frac{\partial E_x}{\partial z}=-\hat{y}\frac{1}{\mu_0}E_x'$$
 
-		Integrate over time:
+	Integrate over time:
 
-		$$\vec{H}(z, t)=-\int_{-\infty}^{t} \frac{\nabla\times\vec{E}}{\mu_0}dt = \hat{y}\frac{1}{\mu_0}\int_{-\infty}^{t}\frac{\partial E_x}{\partial z}dt=\hat{y}\frac{1}{c\mu_0}E_z(z-ct)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_y(z-ct)$$
+	$$\vec{H}(z, t)=-\int_{-\infty}^{t} \frac{\nabla\times\vec{E}}{\mu_0}dt = \hat{y}\frac{1}{\mu_0}\int_{-\infty}^{t}\frac{\partial E_x}{\partial z}dt=\hat{y}\frac{1}{c\mu_0}E_z(z-ct)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_y(z-ct)$$
 
-		$$\vec{H}(z,t)=\sqrt{\frac{\varepsilon_0}{\mu_0}}\hat{z}\times\vec{E}(z, t)=\hat{z}\times\frac{\vec{E}(z, t)}{\eta_0}$$
+	$$\vec{H}(z,t)=\sqrt{\frac{\varepsilon_0}{\mu_0}}\hat{z}\times\vec{E}(z, t)=\hat{z}\times\frac{\vec{E}(z, t)}{\eta_0}$$
 
-	- ***Characteristic Impedance of Free Space***
+- ***Characteristic Impedance of Free Space***
 		
-		For a single uniform place wave in free space, 
+	For a single uniform place wave in free space, 
 
-		$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]$$
+	$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzc5OTExLC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
