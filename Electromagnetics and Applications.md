@@ -192,11 +192,11 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$(\frac{\partial^2}{\partial z^2}+\omega^2\mu_0\varepsilon_0)\vec{\underline{E}}=((-jk)^2+\omega^2\mu_0\varepsilon_0)E_0=0 $$
 	$$\Longrightarrow k=\omega\sqrt{\mu_0\varepsilon_0}=\frac{\omega}{c}=\frac{2\pi f}{c}=\frac{2\pi}{\lambda}$$
-	$$\vec{\underline{H}}(\vec{r})\xlongequal{Faraday's Law}-\frac{\nabla\times{\vec{\underline{E}}}}{j\omega \mu_0}$$
+	$$\vec{\underline{H}}(\vec{r})\xlongequal{Faraday's Law}-\frac{\nabla\times{\vec{\underline{E}}}}{j\omega \mu_0}=-\hat{x}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0e^{-jk}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNT
-Y0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUz
-LC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbMTEwNzU1NTIxNywtMzAxMTg0OTgsNDU4OT
+cyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQs
+LTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
