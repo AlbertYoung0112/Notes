@@ -143,6 +143,10 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 	For a single uniform place wave in free space, 
 
 	$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]$$
+
+### Maxwell's equations, waves, and polarization in the *frequency domain*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbLTE3OTQ0NjYxOCwtMTY4ODYwOTE1MywtMj
+g4MTgzMDI2XX0=
 -->
