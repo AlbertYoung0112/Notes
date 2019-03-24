@@ -169,11 +169,12 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		
 		Here, $\underline{E}_x(\vec{r})$ is called a ***phasor***. The under bar of a phasor indicated the phasor is independent of time.
 
-	$$\underline{E}_x(\vec{r})=|\underline{E}(\vec{r})|e^{j\phi_x(\vec{r})} \tag{Phasor}$$
+- ***Time-harmonic Maxwell Equations***
+	subtitut
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTg5MzU1NCwxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbLTgzODM0MTAxOCwxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
