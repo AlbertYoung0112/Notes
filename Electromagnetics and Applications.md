@@ -153,11 +153,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\vec{H}(\vec{r}, t)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0cos(k(z-ct))$$
 
-	To make the frequency and spatial dependence more evident, rewrite the $(k(z-ct))$ into $(\omega t-kz)$. $\omega$ is called *angular frequency* and $k$ is called *spatial frequency*, or *wavenumber*. The relationship between wavenumber. wavelength, propagation velo
-- 
+	To make the frequency and spatial dependence more evident, rewrite the $(k(z-ct))$ into $(\omega t-kz)$. $\omega$ is called *angular frequency* and $k$ is called *spatial frequency*, or *wavenumber*. The relationship between wavenumber. wavelength, propagation velocity is:
+
+	$$k=\frac{2\pi}{\lambda}=\frac{\omega}{c}$$
+- Maxwell's equations in the complex-frequency domain
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODczMDk0MSwxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbMTQ3MjA2MzUwNSwxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
