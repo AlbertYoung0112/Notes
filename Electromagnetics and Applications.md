@@ -128,8 +128,15 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 		***Polarization*** of a wave by convention refers to the direction of its electric vector. In the example above, the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z-ct)$ is called *x-polarized*.
 
 		If the fields are uniform with respect to two of the coordinates (x, y) so that $\frac{\partial\vec{E}}{\partial x}=\frac{\partial\vec{E}}{\partial y}=0$, we have a ***uniform plane wave***.
-	- 
+	- The magnetic field in uniform plane wave
+		Still, we take the wave $\vec{E}(\vec{r}, t)=\hat{x}E_x(z - ct)$ as an example. $Using *Faraday's law*:
+		$$\frac{\partial \vec{H}}{\partial t}=-\frac{\nabla\times\vec{E}}{\mu_0}=-\hat{y}\frac{1}{\mu_0}\frac{\partial E_x}{\partial z}=-\hat{y}\frac{1}{\mu_0}E_x'$$
+
+		Integrate over time:
+
+		$$\vec{H}(z, t)=-\int_{-\infty}^{t} \frac{\nabla\times\vec{E}}{\mu_0}dt = \hat{y}\frac{1}{\mu_0}\int_{-\infty}^{t}\frac{\partial E_x}{\partial z}dt=\hat{y}\frac{1}{c\mu_0}E_z(z-ct)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_y(z-ct)$$
+
+		$$\vec{H}(z,t)=\sqrt{\frac{\varepsilon_0}{\mu_0}}\hat{z}\times\vec{E}(z, t)=\hat{z}\times\frac{\vec{E}(z, t)}{\eta_0}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5Mjc3MzQxLDY5NDgzMjU4Niw5MzczNz
-E2MDAsLTE2MTYwMzk4NTldfQ==
+eyJoaXN0b3J5IjpbLTI4ODE4MzAyNl19
 -->
