@@ -174,11 +174,15 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\nabla\times\vec{\underline{E}}=-j\omega\vec{\underline{B}} \tag{Faraday's Law}$$
 
-	$$\nabla\times\vec{\underline{H}}=\vec{\underline{J}}+j\omega\vec{\underline{D}}\tag{}$$
+	$$\nabla\times\vec{\underline{H}}=\vec{\underline{J}}+j\omega\vec{\underline{D}}\tag{Ampere's Law}$$
+
+	$$\nabla\cdot\vec{\underline{V}}=\underline{\rho}\tag{Gauss's Law}$$
+
+	$$\nabla\cdot\vec{\underline{B}}=0\tag{Gauss's Law}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDIzNDM2MiwxMDYzNTY0NjY4LDE4ND
-Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
-MjZdfQ==
+eyJoaXN0b3J5IjpbNzQyNjg5NzcxLDEwNjM1NjQ2NjgsMTg0Nj
+Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
+Nl19
 -->
