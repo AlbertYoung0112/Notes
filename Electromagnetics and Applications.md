@@ -166,8 +166,10 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		Convert to the complex notation, it becomes:
 
 		$$\vec{E}_x(\vec{r},t)=\hat{x}Re[E_x(\vec{r})e^{j(\omega t + \phi_x(\vec{r}))}]=\hat{x}Re[\underline{E}_x(\vec{r})e^{j\omega t}]$$
+		
+		Here, $\underline{E}_x(\vec{r})$ is called a ***phasor***. The under bar of a phasor incid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAyOTEwMTEsMTA2MzU2NDY2OCwxOD
-Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
-MDI2XX0=
+eyJoaXN0b3J5IjpbLTIzNzExMDU4MSwxMDYzNTY0NjY4LDE4ND
+Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
+MjZdfQ==
 -->
