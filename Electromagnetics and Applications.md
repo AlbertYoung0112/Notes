@@ -184,11 +184,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\nabla\times(\nabla\times\vec{\underline{E}})=-j\omega\nabla\vec{\underline{B}}$$ 
 
-	$$\nabla(\nabla\cdot\vec{\underline{E}})-\nabla^2\vec{\underline{E}}=-j\omega\mu_0\varepsi$$
+	$$\nabla(\nabla\cdot\vec{\underline{E}})-\nabla^2\vec{\underline{E}}=-j\omega\mu_0\varepsilon_0\vec{\underline{E}}$$
+
+	$$(\nabla^2+\omega^2\mu_0\varepsilon_0)\vec{\underline{E}}=0 \tag{Wave Equation}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDc2MTM5NSwxMDYzNTY0NjY4LDE4ND
-Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
-MjZdfQ==
+eyJoaXN0b3J5IjpbNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0Nj
+Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
+Nl19
 -->
