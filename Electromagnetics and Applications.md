@@ -149,9 +149,9 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 - The basic elements: *Sinusoidal waves*
 	
 	Free space is a LTI system so that it's fully characterized by its response to sinusoidal plane waves. For example, a z-propagating x-polarized uniform sinusoidal plane wave can be expressed by:
-	$$\vec{E}(\vec{r}, t)=\hat{x}E_0cos(k(z-ct))$$
+	$$\vec{E}(\vec{r}, t)=\hat{x}E_0\cos(k(z-ct))$$
 
-	$$\vec{H}(\vec{r}, t)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0cos(k(z-ct))$$
+	$$\vec{H}(\vec{r}, t)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0\cos(k(z-ct))$$
 
 	To make the frequency and spatial dependence more evident, rewrite the $(k(z-ct))$ into $(\omega t-kz)$. $\omega$ is called *angular frequency* and $k$ is called *spatial frequency*, or *wavenumber*. The relationship between wavenumber. wavelength, propagation velocity is:
 
@@ -167,7 +167,7 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 		$$\vec{E}_x(\vec{r},t)=\hat{x}Re[E_x(\vec{r})e^{j(\omega t + \phi_x(\vec{r}))}]=\hat{x}Re[]$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTQyNjE0NiwxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbMjE0NTIzNjcwMiwxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
