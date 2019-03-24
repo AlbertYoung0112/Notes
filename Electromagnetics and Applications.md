@@ -157,9 +157,10 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$k=\frac{2\pi}{\lambda}=\frac{\omega}{c}$$
 - Maxwell's equations in the complex-frequency domain
-
+	- Express the sinusoidal wave with complex notation
+		Gen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjA2MzUwNSwxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbMTk4MDE4MDczNSwxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
