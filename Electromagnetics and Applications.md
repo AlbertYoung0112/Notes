@@ -172,11 +172,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 - ***Time-harmonic Maxwell Equations***
 	Substitute the $\vec{E}(\vec{r}, t)$ with its complex notations and omit the $Re[(\cdot) e^{j\omega t}]$, we got:
 
-	$$\nabla\times\vec{\underline{E}}=-j\omega\vec{\underline{B}} \$$
+	$$\nabla\times\vec{\underline{E}}=-j\omega\vec{\underline{B}} \tag{Faraday's Law}$$
+
+	$$\nabla\times\vec{\underline{H}}=\vec{\underline{J}}+j\omega\vec{\underline{D}}\tag{}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzMyMjMxMywxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbLTgxMDIzNDM2MiwxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
