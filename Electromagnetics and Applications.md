@@ -44,55 +44,55 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 ## Introduction to Electrodynamics
 
-###***Differential form of Maxwell's equations***
+### ***Differential form of Maxwell's equations***
 
   
 
-	$$\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \tag{Faraday's Law}$$
+$$\nabla\times\vec{E}=-\frac{\partial\vec{B}}{\partial t} \tag{Faraday's Law}$$
 
-	$$\nabla\times\vec{H}=\vec{J}+\frac{\partial\vec{D}}{\partial t} \tag{Ampere's Law}$$
+$$\nabla\times\vec{H}=\vec{J}+\frac{\partial\vec{D}}{\partial t} \tag{Ampere's Law}$$
 
-	$$\nabla\cdot\vec{D}=\rho \tag{Gauss's Law}$$
+$$\nabla\cdot\vec{D}=\rho \tag{Gauss's Law}$$
 
-	$$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
-
-  
-
-	- Field variables:
-
-		- $\vec{E}$, *electric field*, $V/m$;
-
-		- $\vec{H}$, *magnetic field*, $A/m$;
-
-		- $\vec{B}$, *magnetic flux density*, $T$;
-
-		- $\vec{D}$, *electric displacement*, $C/m^2$;
-
-		- $\vec{J}$, *electric current density*, $A/m^2$;
-
-		- $\rho$, *electric charge density*, $C/m^3$;
+$$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
   
 
-	- Constitutive Relations in **VACUUM**
+- Field variables:
 
-		- $\vec{D}=\varepsilon_0\vec{E}$, where the *permittivity of vacuum* $\varepsilon_0\approx 8.8532\times10^{-12} farads/m$
+	- $\vec{E}$, *electric field*, $V/m$;
 
-		- $\vec{B}=\mu_0\vec{H}$, where *permeability of vacuum* $\mu_0=4\pi\times10^{-7} henries/m$
+	- $\vec{H}$, *magnetic field*, $A/m$;
 
-		- $\vec{J}=\rho\vec{v}=\sigma\vec{E}$, where $v$ is the velocity of the local net charge density $\rho$, and $\sigma$ is the *conductivity* of the medium (*Siemems/m*).
+	- $\vec{B}$, *magnetic flux density*, $T$;
 
-	- Requirement: Conservation of charge
+	- $\vec{D}$, *electric displacement*, $C/m^2$;
 
-		$$\because \nabla\cdot(\nabla\times\vec{A})=0$$
+	- $\vec{J}$, *electric current density*, $A/m^2$;
 
-		$$\therefore \nabla\cdot(\nabla\times\vec{H})=0=\nabla\cdot\frac{\partial\vec{D}}{\partial t} + \nabla\cdot\vec{J}$$
-
-		$$\therefore \nabla\cdot\vec{J}=-\nabla\cdot\frac{\partial\vec{D}}{\partial t} \xlongequal{Gauss's law}-\frac{\partial \rho}{\partial t}$$
+	- $\rho$, *electric charge density*, $C/m^3$;
 
   
 
-- Electromagnetic waves in the *time domain*
+- Constitutive Relations in **VACUUM**
+
+	- $\vec{D}=\varepsilon_0\vec{E}$, where the *permittivity of vacuum* $\varepsilon_0\approx 8.8532\times10^{-12} farads/m$
+
+	- $\vec{B}=\mu_0\vec{H}$, where *permeability of vacuum* $\mu_0=4\pi\times10^{-7} henries/m$
+
+	- $\vec{J}=\rho\vec{v}=\sigma\vec{E}$, where $v$ is the velocity of the local net charge density $\rho$, and $\sigma$ is the *conductivity* of the medium (*Siemems/m*).
+
+- Requirement: Conservation of charge
+
+	$$\because \nabla\cdot(\nabla\times\vec{A})=0$$
+
+	$$\therefore \nabla\cdot(\nabla\times\vec{H})=0=\nabla\cdot\frac{\partial\vec{D}}{\partial t} + \nabla\cdot\vec{J}$$
+
+	$$\therefore \nabla\cdot\vec{J}=-\nabla\cdot\frac{\partial\vec{D}}{\partial t} \xlongequal{Gauss's law}-\frac{\partial \rho}{\partial t}$$
+
+  
+
+### Electromagnetic waves in the *time domain*
 
   
 
@@ -144,5 +144,5 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM2MDkwNSwtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbMTcyNzc5OTExLC0yODgxODMwMjZdfQ==
 -->
