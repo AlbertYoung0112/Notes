@@ -190,11 +190,12 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	- Example: One possible form of solution to the *wave equation* above is $\vec{\underline{E}}(\vec{r})=\hat{y}E_0e^{-jkz}$. Substituting it in to the wave equation yields:
 
-	$$(\frac{\partial^2}{\partial z^2}+\omega^2\mu_0\varepsilon_0)\vec{\underline{E}}=((-jk)^2+\omega^2\mu_0\varepsilon_0)E_0=0 \Longri$$
+	$$(\frac{\partial^2}{\partial z^2}+\omega^2\mu_0\varepsilon_0)\vec{\underline{E}}=((-jk)^2+\omega^2\mu_0\varepsilon_0)E_0=0 $$
+	$$\Longrightarrow k=\omega\sqrt{\mu_0\varepsilon_0}=\frac{\omega}{c}=\frac{2\pi f}{c}=\frac{}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTg0MzA0MCw0NTg5NzIyODUsMTA2Mz
-U2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1
-MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTE0MzA0ODE4MzcsNDU4OTcyMjg1LDEwNj
+M1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkx
+NTMsLTI4ODE4MzAyNl19
 -->
