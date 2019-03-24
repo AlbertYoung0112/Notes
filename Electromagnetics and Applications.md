@@ -158,9 +158,12 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 	$$k=\frac{2\pi}{\lambda}=\frac{\omega}{c}$$
 - Maxwell's equations in the complex-frequency domain
 	- Express the sinusoidal wave with complex notation
-		Gen
+		
+		Generally, the $\hat{x}$ component of a general sinusoidal $\vec{E}$ might be:
+
+		$$\vec{E}(\vec{r}, t)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDE4MDczNSwxMDYzNTY0NjY4LDE4ND
-Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTE3ODUyODIxNzUsMTA2MzU2NDY2OCwxOD
+Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
+MDI2XX0=
 -->
