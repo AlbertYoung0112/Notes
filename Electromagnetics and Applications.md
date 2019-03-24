@@ -184,11 +184,11 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\nabla\times(\nabla\times\vec{\underline{E}})=-j\omega\nabla\vec{\underline{B}}$$ 
 
-	$$\$$
+	$$\nabla(\nabla\cdot\vec{\underline{E}})-\nabla^2\vec{\underline{E}}=-j\omega\mu_0\varepsi$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzgxNTkwNTEsMTA2MzU2NDY2OCwxOD
-Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
-MDI2XX0=
+eyJoaXN0b3J5IjpbMTg4NDc2MTM5NSwxMDYzNTY0NjY4LDE4ND
+Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
+MjZdfQ==
 -->
