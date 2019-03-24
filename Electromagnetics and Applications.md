@@ -146,7 +146,12 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 ### Maxwell's equations, waves, and polarization in the *frequency domain*
 
+- The basic elements: *Sinusoidal waves*
+	
+	Free space is a LTI system so that it's fully characterized n
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ0NjYxOCwtMTY4ODYwOTE1MywtMj
-g4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbMTQ1MjcyMTMsLTE2ODg2MDkxNTMsLTI4OD
+E4MzAyNl19
 -->
