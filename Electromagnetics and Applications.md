@@ -161,9 +161,9 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		
 		Generally, the $\hat{x}$ component of a general sinusoidal $\vec{E}$ might be:
 
-		$$\vec{E}(\vec{r}, t)$$
+		$$\vec{E}(\vec{r}, t)=\hat{x}E_x(\vec{r})cos(\omega t + \ph)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUyODIxNzUsMTA2MzU2NDY2OCwxOD
+eyJoaXN0b3J5IjpbLTEyNjY5MTU2MzQsMTA2MzU2NDY2OCwxOD
 Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
 MDI2XX0=
 -->
