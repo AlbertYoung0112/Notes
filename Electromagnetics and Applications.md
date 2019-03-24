@@ -167,9 +167,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 		$$\vec{E}_x(\vec{r},t)=\hat{x}Re[E_x(\vec{r})e^{j(\omega t + \phi_x(\vec{r}))}]=\hat{x}Re[\underline{E}_x(\vec{r})e^{j\omega t}]$$
 		
-		Here, $\underline{E}_x(\vec{r})$ is called a ***phasor***. The under bar of a phasor incid
+		Here, $\underline{E}_x(\vec{r})$ is called a ***phasor***. The under bar of a phasor indicated the phasor is independent of time.
+
+	$$\underline{E}_x(\vec{r})=|\underline{E}(\vec{r})|e^{j\phi_x(\vec{r})} \tag{Phasor}$$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzExMDU4MSwxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbLTYxOTg5MzU1NCwxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
