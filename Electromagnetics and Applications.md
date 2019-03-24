@@ -153,11 +153,11 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\vec{H}(\vec{r}, t)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0cos(k(z-ct))$$
 
-	To make the frequency and spatial dependence more evident, rewrite the $$
+	To make the frequency and spatial dependence more evident, rewrite the $(k(z-ct))$ into $(\omega)$
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTM5MjA2OCwxMDYzNTY0NjY4LDE4ND
-Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTgwOTg1NTcsMTA2MzU2NDY2OCwxOD
+Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
+MDI2XX0=
 -->
