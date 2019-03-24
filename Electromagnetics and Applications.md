@@ -153,10 +153,10 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\vec{H}(\vec{r}, t)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0cos(k(z-ct))$$
 
-	Separate the time relevant and the spatial relevant parts in $(k(x-ct))$
+	To make Separate the time relevant and the spatial relevant parts in $(k(x-ct))$
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yOD
-gxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2OD
+g2MDkxNTMsLTI4ODE4MzAyNl19
 -->
