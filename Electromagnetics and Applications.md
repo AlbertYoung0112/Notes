@@ -180,9 +180,11 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\nabla\cdot\vec{\underline{B}}=0\tag{Gauss's Law}$$
 
+	- Similarly, by computing the curl of the *Faraday's Law*, 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjg5NzcxLDEwNjM1NjQ2NjgsMTg0Nj
+eyJoaXN0b3J5IjpbNzE1MDMwMjc2LDEwNjM1NjQ2NjgsMTg0Nj
 Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
 Nl19
 -->
