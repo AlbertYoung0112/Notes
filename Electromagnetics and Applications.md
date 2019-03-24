@@ -137,6 +137,7 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 		$$\vec{H}(z, t)=-\int_{-\infty}^{t} \frac{\nabla\times\vec{E}}{\mu_0}dt = \hat{y}\frac{1}{\mu_0}\int_{-\infty}^{t}\frac{\partial E_x}{\partial z}dt=\hat{y}\frac{1}{c\mu_0}E_z(z-ct)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_y(z-ct)$$
 
 		$$\vec{H}(z,t)=\sqrt{\frac{\varepsilon_0}{\mu_0}}\hat{z}\times\vec{E}(z, t)=\hat{z}\times\frac{\vec{E}(z, t)}{\eta_0}$$
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbLTk2ODMzMDM1NiwtMjg4MTgzMDI2XX0=
 -->
