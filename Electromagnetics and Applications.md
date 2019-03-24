@@ -188,9 +188,11 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$(\nabla^2+\omega^2\mu_0\varepsilon_0)\vec{\underline{E}}=0 \tag{Wave Equation}$$
 
+	- Example: One possible solution to the *wave equation* above is $\vec{\underline{E}}$
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0Nj
-Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
-Nl19
+eyJoaXN0b3J5IjpbMTA0NjY3NjQzOSw0NTg5NzIyODUsMTA2Mz
+U2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1
+MywtMjg4MTgzMDI2XX0=
 -->
