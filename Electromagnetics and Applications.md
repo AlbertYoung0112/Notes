@@ -188,11 +188,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$(\nabla^2+\omega^2\mu_0\varepsilon_0)\vec{\underline{E}}=0 \tag{Wave Equation}$$
 
-	- Example: One possible solution to the *wave equation* above is $\vec{\underline{E}}$
+	- Example: One possible form of solution to the *wave equation* above is $\vec{\underline{E}}(\vec{r})=\hat{y}E_0e^{-jkz}$. Substituting it in to the wave equation yields:
+
+	$$(\fra)$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjY3NjQzOSw0NTg5NzIyODUsMTA2Mz
+eyJoaXN0b3J5IjpbLTMyNjA0MTU4Nyw0NTg5NzIyODUsMTA2Mz
 U2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1
 MywtMjg4MTgzMDI2XX0=
 -->
