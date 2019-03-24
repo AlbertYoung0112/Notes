@@ -44,7 +44,7 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 ## Introduction to Electrodynamics
 
-- ***Differential form of Maxwell's equations***
+###***Differential form of Maxwell's equations***
 
   
 
@@ -144,5 +144,5 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 		$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjYxNzgyNSwtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTE5NTM2MDkwNSwtMjg4MTgzMDI2XX0=
 -->
