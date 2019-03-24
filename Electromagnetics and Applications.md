@@ -170,11 +170,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		Here, $\underline{E}_x(\vec{r})$ is called a ***phasor***. The under bar of a phasor indicated the phasor is independent of time.
 
 - ***Time-harmonic Maxwell Equations***
-	subtitut
+	Substitute the $\vec{E}(\vec{r}, t)$ with its complex notations and omit the $Re[(\cdot) e^{j\omega t}]$, we got:
+
+	$$\nabla\times\vec{\underline{E}}=-j\omega\vec{\underline{B}} \$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODM0MTAxOCwxMDYzNTY0NjY4LDE4ND
+eyJoaXN0b3J5IjpbMTM2MzMyMjMxMywxMDYzNTY0NjY4LDE4ND
 Y0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMw
 MjZdfQ==
 -->
