@@ -180,11 +180,15 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 	$$\nabla\cdot\vec{\underline{B}}=0\tag{Gauss's Law}$$
 
-	- Similarly, by computing the curl of the *Faraday's Law*, 
+	- Similarly, by computing the curl of the *Faraday's Law* in frequency domain, Helmholtz equation becomes:
+
+	$$\nabla\times(\nabla\times\vec{\underline{E}})=-j\omega\nabla\vec{\underline{B}}$$ 
+
+	$$\$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MDMwMjc2LDEwNjM1NjQ2NjgsMTg0Nj
-Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
-Nl19
+eyJoaXN0b3J5IjpbLTEwMzgxNTkwNTEsMTA2MzU2NDY2OCwxOD
+Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
+MDI2XX0=
 -->
