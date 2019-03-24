@@ -148,10 +148,15 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 - The basic elements: *Sinusoidal waves*
 	
-	Free space is a LTI system so that it's fully characterized n
+	Free space is a LTI system so that it's fully characterized by its response to sinusoidal plane waves. For example, a z-propagating x-polarized uniform sinusoidal plane wave can be expressed by:
+	$$\vec{E}(\vec{r}, t)=\hat{x}E_0cos(k(z-ct))$$
+
+	$$\vec{H}(\vec{r}, t)=\hat{y}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0cos(k(z-ct))$$
+
+	Separate the time relevant and the spatial relevant parts in $(k(x-ct))$
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjcyMTMsLTE2ODg2MDkxNTMsLTI4OD
-E4MzAyNl19
+eyJoaXN0b3J5IjpbNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yOD
+gxODMwMjZdfQ==
 -->
