@@ -142,7 +142,7 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 		
 		For a single uniform place wave in free space, 
 
-		$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]\tag{Ch}$$
+		$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MjIzODM4LC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbLTg2NjYxNzgyNSwtMjg4MTgzMDI2XX0=
 -->
