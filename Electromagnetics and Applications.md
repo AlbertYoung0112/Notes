@@ -140,7 +140,9 @@ $$\vec{E}=\frac{\vec{f}}{q}$$
 
 	- ***Characteristic Impedance of Free Space***
 		
-		For a single uniform place wave in free space, $\frac{\{}}{}$
+		For a single uniform place wave in free space, 
+
+		$$\frac{|\vec{E}|}{|\vec{H}|}=\eta_0=\sqrt{\frac{\mu_0}{\varepsilon_0}}\approx377[Ohms]\tag{Ch}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDQ3Mzk3NiwtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbMzQ2MjIzODM4LC0yODgxODMwMjZdfQ==
 -->
