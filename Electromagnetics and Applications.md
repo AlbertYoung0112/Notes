@@ -253,15 +253,15 @@ $$
 	\oiint_A(\vec{D}\cdot\hat{n})da=\iiint_V\rho dv \tag{Gauss's Law for Charge}
 $$
 
-$$
+$$k
 	\oiint_A(\vec{B}\cdot\hat{n})da=0 \tag{Gauss's Law for Magnetics}
 $$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NT
-I0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1
-LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2OD
-g2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbMTAzMDA5NTY0MCwyMDkxNjI5NjUzLDkyNT
+c2NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgwNjA1LC0zMDExODQ5
+OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3LDQ5OD
+Q5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
 -->
