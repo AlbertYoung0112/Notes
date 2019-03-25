@@ -201,10 +201,16 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 - *Gauss's divergence theorem*
 	
 	$$\iiint_V(\nabla\cdot\vec{A})dv=\oiint_S(\vec{A}\cdot\hat{n})da$$
+	
+	Proof:
+	
+	$$\nabla\cdot\vec{A}=\frac{\partial\vec{A}}{\partial x}+\frac{\partial\vec{A}}{\partial y}+\frac{\partial\vec{A}}{\partial z}$$
+
+	$$=\lim_{\Delta i\rightarrow0}(\frac{\Delta x\Delta y(A_x())}{\Delta x\Delta y\Delta z})$$
 - *Stokes theorem*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzU4MjI2NCwyMDU1MTgwNjA1LC0zMD
-ExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3
-LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTEzMDgwMzYyMDUsMjA1NTE4MDYwNSwtMz
+AxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1
+Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
