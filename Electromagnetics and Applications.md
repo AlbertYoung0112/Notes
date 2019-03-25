@@ -239,29 +239,29 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		\iint_A(\nabla\times\vec{A})\cdot \hat{n} da=\oint_C\vec{A}\cdot d\vec{s} \tag{Stokes Theorem}
 	$$
 
-### Integral Form of Maxwell's Equations
+### *Integral Form of Maxwell's Equations*
 
 $$
-	\oint_C\vec{E}\cdot d\vec{s}=-\frac{\partial}{\partial t}\iint_A\vec{B}\cdot\hat{n}da
-$$
-
-$$
-	\oint_C\vec{H}\cdot d\vec{s}=\iint_A(\vec{J}+\frac{\partial\vec{D}}{\partial t})\cdot\hat{n}da
+	\oint_C\vec{E}\cdot d\vec{s}=-\frac{\partial}{\partial t}\iint_A\vec{B}\cdot\hat{n}da \tag{Faraday's Law}
 $$
 
 $$
-	\oiint_A(\vec{D}\cdot\hat{n})da=\iiint_V\rho dv
+	\oint_C\vec{H}\cdot d\vec{s}=\iint_A(\vec{J}+\frac{\partial\vec{D}}{\partial t})\cdot\hat{n}da \tag{Ampere's Law}
 $$
 
 $$
-	\oiint_A()
+	\oiint_A(\vec{D}\cdot\hat{n})da=\iiint_V\rho dv \tag{Gauss's Law for Charge}
+$$
+
+$$
+	\oiint_A(\vec{B}\cdot\hat{n})da=0 \tag{Gauss's Law for Magnetics}
 $$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkyNTE5NTcsOTI1NzY3MDY0LC0xOD
-UyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4
-NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNj
-g4NjA5MTUzLC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NT
+I0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1
+LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2OD
+g2MDkxNTMsLTI4ODE4MzAyNl19
 -->
