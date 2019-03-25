@@ -200,11 +200,11 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 ### Recall: The Mathematical Basis
 - *Gauss's divergence theorem*
 	
-	$$$$
+	$$\iiint_V(\nabla\cdot\vec{A})dv=\oiint_S(\vec{A}\cdot\hat{n})da$$
 - *Stokes theorem*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTg1NDkwMiwyMDU1MTgwNjA1LC0zMD
+eyJoaXN0b3J5IjpbLTg4MzU4MjI2NCwyMDU1MTgwNjA1LC0zMD
 ExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3
 LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
 -->
