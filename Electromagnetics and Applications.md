@@ -215,7 +215,7 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 						\frac{
 							\Delta z\Delta x(A_y(y_0 + \frac{\Delta y}{2}) ) - A_y(y_0 - \frac{\Delta y}{2}))}
 						{\Delta x\Delta y\Delta z} + \\
-						\frac{
+						\frac{i
 							\Delta x\Delta y(A_z(z_0 + \frac{\Delta z}{2}) ) - A_z(z_0 - \frac{\Delta z}{2}))}
 						{\Delta x\Delta y\Delta z}
 					)
@@ -242,8 +242,8 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4MDM1NTUsLTE4NTI0Njg0MjYsMj
-A1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2
-NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLT
-I4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbOTI1NzY3MDY0LC0xODUyNDY4NDI2LDIwNT
+UxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4
+LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yOD
+gxODMwMjZdfQ==
 -->
