@@ -205,17 +205,18 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 	Proof:
 	
 	$$
-	\begin{aligned}
-	\nabla\cdot\vec{A} & =\frac{\partial\vec{A}}{\partial x}+\frac{\partial\vec{A}}{\partial y}+\frac{\partial\vec{A}}{\partial z} \\
-	& \begin{aligned} =\lim_{\Delta i\rightarrow0}(
-	\frac{
-		\Delta y\Delta z(A_x(x_0 + \frac{\Delta x}{2}) ) - A_x(x_0 - \frac{\Delta x}{2}))}
-		{\Delta x\Delta y\Delta z} + \\
-	\frac{
-						\Delta z\Delta x(A_y(y_0 + \frac{\Delta y}{2}) ) - A_y(y_0 - \frac{\Delta y}{2}))}
+		\begin{aligned}
+			\nabla\cdot\vec{A} & =\frac{\partial\vec{A}}{\partial x}+\frac{\partial\vec{A}}
+				{\partial y}+\frac{\partial\vec{A}}{\partial z} \\
+		& \begin{aligned} =\lim_{\Delta i\rightarrow0}(
+						\frac{
+							\Delta y\Delta z(A_x(x_0 + \frac{\Delta x}{2}) ) - A_x(x_0 - \frac{\Delta x}{2}))}
 						{\Delta x\Delta y\Delta z} + \\
 						\frac{
-						\Delta x\Delta y(A_z(z_0 + \frac{\Delta z}{2}) ) - A_z(z_0 - \frac{\Delta z}{2}))}
+							\Delta z\Delta x(A_y(y_0 + \frac{\Delta y}{2}) ) - A_y(y_0 - \frac{\Delta y}{2}))}
+						{\Delta x\Delta y\Delta z} + \\
+						\frac{
+							\Delta x\Delta y(A_z(z_0 + \frac{\Delta z}{2}) ) - A_z(z_0 - \frac{\Delta z}{2}))}
 						{\Delta x\Delta y\Delta z}
 					)
 				\end{aligned}\\
@@ -223,12 +224,16 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		\end{aligned}
 	$$
 
+	$$
+		\lim_{\Delta v \rightarrow0}\sum_
+	$$
+
 
 
 - *Stokes theorem*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg0MzE1NzgsMjA1NTE4MDYwNSwtMz
-AxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1
-Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbMzkwOTE1MjE2LDIwNTUxODA2MDUsLTMwMT
+E4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcs
+NDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ==
 -->
