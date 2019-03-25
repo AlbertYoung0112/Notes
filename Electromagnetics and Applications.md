@@ -195,8 +195,10 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 	$$\vec{\underline{H}}(\vec{r})\xlongequal{Faraday's Law}-\frac{\nabla\times{\vec{\underline{E}}}}{j\omega \mu_0}=-\hat{x}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0e^{-jkz}=-\hat{x}\frac{1}{\eta_0}E_0e^{-jkz}$$
 
 
+## Relations
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OT
-cyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQs
-LTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbLTg5NDM1MDgxNCwyMDU1MTgwNjA1LC0zMD
+ExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3
+LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
 -->
