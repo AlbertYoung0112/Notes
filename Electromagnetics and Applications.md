@@ -195,10 +195,13 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 	$$\vec{\underline{H}}(\vec{r})\xlongequal{Faraday's Law}-\frac{\nabla\times{\vec{\underline{E}}}}{j\omega \mu_0}=-\hat{x}\sqrt{\frac{\varepsilon_0}{\mu_0}}E_0e^{-jkz}=-\hat{x}\frac{1}{\eta_0}E_0e^{-jkz}$$
 
 
-## Relations
+## Relations between *Integral and Differential* forms of Maxwell's equations
+
+### Recall: The basis of 
+- *Gauss's divergence theorem*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDM1MDgxNCwyMDU1MTgwNjA1LC0zMD
+eyJoaXN0b3J5IjpbLTI3NTM1MTAyNSwyMDU1MTgwNjA1LC0zMD
 ExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3
 LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
 -->
