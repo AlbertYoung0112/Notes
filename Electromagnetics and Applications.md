@@ -225,7 +225,12 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 	$$
 
 	$$
-		\lim_{\Delta v \rightarrow0}\sum_i\nabla\cdot\vec{A}\Delta v_i=\lim_{\Delta v \rightarrow0}
+		\lim_{\Delta v \rightarrow0}\sum_i\nabla\cdot\vec{A}\Delta v_i = 
+			\lim_{\Delta v \rightarrow0}\sum_i(\oiint_{S_i}\vec{A}\cdot\hat{n}da)
+	$$
+
+	$$
+		\Longrightarrow \iiint_V(\nabla\cdot\vec{A})dv=\oiint_S(\vec{A}\cdot\hat{n})da
 	$$
 
 
@@ -233,7 +238,7 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 - *Stokes theorem*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTQ5Mjk2MywyMDU1MTgwNjA1LC0zMD
-ExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3
-LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMz
+AxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1
+Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
