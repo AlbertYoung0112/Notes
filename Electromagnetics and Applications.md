@@ -212,19 +212,23 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		\Delta y\Delta z(A_x(x_0 + \frac{\Delta x}{2}) ) - A_x(x_0 - \frac{\Delta x}{2}))}
 		{\Delta x\Delta y\Delta z} + \\
 	\frac{
-		\Delta y\Delta z(A_x(x_0 + \frac{\Delta x}{2}) ) - A_x(x_0 - \frac{\Delta x}{2}))}
-		{\Delta x\Delta y\Delta z} + \\
-		\Delta y\Delta z(A_x(x_0 + \frac{\Delta x}{2}) ) - A_x(x_0 - \frac{\Delta x}{2}))}
-		{\Delta x\Delta y\Delta z} + 
-		)
-	\end{aligned}
-	\end{aligned}
-$$
+						\Delta z\Delta x(A_y(y_0 + \frac{\Delta y}{2}) ) - A_y(y_0 - \frac{\Delta y}{2}))}
+						{\Delta x\Delta y\Delta z} + \\
+						\frac{
+						\Delta x\Delta y(A_z(z_0 + \frac{\Delta z}{2}) ) - A_z(z_0 - \frac{\Delta z}{2}))}
+						{\Delta x\Delta y\Delta z}
+					)
+				\end{aligned}\\
+			& = \lim_{\Delta i \rightarrow0}(\oiint_{S_i}\vec{A}\cdot\hat{n}da)
+		\end{aligned}
+	$$
+
+
 
 - *Stokes theorem*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODE5Njk4MCwyMDU1MTgwNjA1LC0zMD
-ExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3
-LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTE5Njg0MzE1NzgsMjA1NTE4MDYwNSwtMz
+AxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1
+Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
