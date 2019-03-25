@@ -233,12 +233,15 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		\Longrightarrow \iiint_V(\nabla\cdot\vec{A})dv=\oiint_S(\vec{A}\cdot\hat{n})da
 	$$
 
-
-
 - *Stokes theorem*
 
+	$$
+		\iint_A(\nabla\times\vec{A})\cdot \hat{n} da=\oint_C\vec{A}\cdot d\vec{s}
+	$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMz
-AxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1
-Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbMTM0MjQ3MDY5MSwtMTg1MjQ2ODQyNiwyMD
+U1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2
+OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMj
+g4MTgzMDI2XX0=
 -->
