@@ -242,11 +242,17 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 ### Integral Form of Maxwell's Equations
 
 $$
-	\oint_C\vec{E}\cdot d\vec{s}=-\frac{\partial}{\partial t}\iint\vec{}
+	\oint_C\vec{E}\cdot d\vec{s}=-\frac{\partial}{\partial t}\iint_A\vec{B}\cdot\hat{n}da
 $$
 
+$$
+	\oint_C\vec{H}\cdot d\vec{s}=\iint_A(\vec{J}+\frac{\partial\vec{D}}{\partialt}c{B})\cdot\hat{n}da
+$$
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTMwMjg5OSw5MjU3NjcwNjQsLTE4NT
+eyJoaXN0b3J5IjpbMTczOTA4NTUyMiw5MjU3NjcwNjQsLTE4NT
 I0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1
 LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2OD
 g2MDkxNTMsLTI4ODE4MzAyNl19
