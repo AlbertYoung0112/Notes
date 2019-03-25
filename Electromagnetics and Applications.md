@@ -239,11 +239,15 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 		\iint_A(\nabla\times\vec{A})\cdot \hat{n} da=\oint_C\vec{A}\cdot d\vec{s} \tag{Stokes Theorem}
 	$$
 
+### Integral Form of Maxwell's Equations
 
+$$
+	\oint_C\vec{E}\cdot d\vec{s}=-\frac{\partial}{\partial t}\iint\vec{}
+$$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NzY3MDY0LC0xODUyNDY4NDI2LDIwNT
-UxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4
-LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yOD
-gxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbLTQyMTMwMjg5OSw5MjU3NjcwNjQsLTE4NT
+I0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1
+LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2OD
+g2MDkxNTMsLTI4ODE4MzAyNl19
 -->
