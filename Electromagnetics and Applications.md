@@ -246,14 +246,18 @@ $$
 $$
 
 $$
-	\oint_C\vec{H}\cdot d\vec{s}=\iint_A(\vec{J}+\frac{\partial\vec{D}}{\partialt}c{B})\cdot\hat{n}da
+	\oint_C\vec{H}\cdot d\vec{s}=\iint_A(\vec{J}+\frac{\partial\vec{D}}{\partial t})\cdot\hat{n}da
+$$
+
+$$
+	\oiint_A()
 $$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTA4NTUyMiw5MjU3NjcwNjQsLTE4NT
-I0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1
-LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2OD
-g2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbLTExMDUzMDA0MzcsOTI1NzY3MDY0LC0xOD
+UyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4
+NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNj
+g4NjA5MTUzLC0yODgxODMwMjZdfQ==
 -->
