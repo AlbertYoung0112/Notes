@@ -200,7 +200,7 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 ### Recall: The Mathematical Basis
 - *Gauss's divergence theorem*
 	
-	$$\iiint_V(\nabla\cdot\vec{A})dv=\oiint_S(\vec{A}\cdot\hat{n})da$$
+	$$\iiint_V(\nabla\cdot\vec{A})dv=\oiint_S(\vec{A}\cdot\hat{n})da \tag{Gauss's Divergence Theorem}$$
 	
 	Proof:
 	
@@ -236,12 +236,14 @@ $$\nabla\cdot\vec{B}=0 \tag{Gauss's Law}$$
 - *Stokes theorem*
 
 	$$
-		\iint_A(\nabla\times\vec{A})\cdot \hat{n} da=\oint_C\vec{A}\cdot d\vec{s}
+		\iint_A(\nabla\times\vec{A})\cdot \hat{n} da=\oint_C\vec{A}\cdot d\vec{s} \tag{Stokes Theorem}
 	$$
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjQ3MDY5MSwtMTg1MjQ2ODQyNiwyMD
-U1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2
-OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMj
-g4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTE0ODY4MDM1NTUsLTE4NTI0Njg0MjYsMj
+A1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2
+NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLT
+I4ODE4MzAyNl19
 -->
