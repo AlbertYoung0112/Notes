@@ -333,7 +333,7 @@ $$
 	-	$\chi_m\gg0, \mu\gg\mu_0$, in *ferromagnetic materials*
 - *Ferromagnetic materials*
 	- The atomic magnetic dipoles spontaneously align over ***magnetic domains***
-	- The size of those domains 
+	- The size of those domains oriented in the general direction of the applied magnetic field grow ad that field increases.
 	
 
 
@@ -341,11 +341,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzMxMzgsLTE4MjM4OTYyODAsMjAyMD
-g2MTk4OSwtMTE2MzM1NTE0OCwxNzEyMTc2MDg3LDUyOTc1Mjc2
-OCwtOTQ1ODQ4OTM4LC0xNDYxODY5ODAyLC00MDgzNTYyMzMsMj
-AxNjA2NDUxMCwxODE0NzE5MzMsMTAzMDA5NTY0MCwyMDkxNjI5
-NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgwNjA1LC
-0zMDExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDcz
-NjU3XX0=
+eyJoaXN0b3J5IjpbLTc0Mjg0NDcwNCwtMTgyMzg5NjI4MCwyMD
+IwODYxOTg5LC0xMTYzMzU1MTQ4LDE3MTIxNzYwODcsNTI5NzUy
+NzY4LC05NDU4NDg5MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMy
+wyMDE2MDY0NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2
+Mjk2NTMsOTI1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MD
+UsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0
+NzM2NTddfQ==
 -->
