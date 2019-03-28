@@ -322,8 +322,12 @@ $$\vec{J}=\sigma \vec{E}$$
 ### Permeability $\mu$
 
 $$
-	\vec{B}=\mu\vec{H}=\mu_0(\vec{H}+\vec{M})=\mu_0
+	\vec{B}=\mu\vec{H}=\mu_0(\vec{H}+\vec{M})=\mu_0(1+\chi_m)
 $$
+
+-	$\vec{M}$, ***Magnetization***
+-	$\chi_m$, ***Magnetic Susceptibility***
+	-	
 	
 
 
@@ -331,11 +335,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyNDAxNjkyLDIwMjA4NjE5ODksLTExNj
-MzNTUxNDgsMTcxMjE3NjA4Nyw1Mjk3NTI3NjgsLTk0NTg0ODkz
-OCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1MTAsMT
-gxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5MjU3Njcw
-NjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsND
-U4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2
-NTRdfQ==
+eyJoaXN0b3J5IjpbMTcxODY1Mjg5OCwyMDIwODYxOTg5LC0xMT
+YzMzU1MTQ4LDE3MTIxNzYwODcsNTI5NzUyNzY4LC05NDU4NDg5
+MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0NTEwLD
+E4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3
+MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LD
+Q1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkx
+NjU0XX0=
 -->
