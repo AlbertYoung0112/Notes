@@ -266,21 +266,85 @@ $$\vec{J}=\sigma \vec{E}$$
 ### Permittivity $\varepsilon$
 	
 - Polarization
+
+	- *Electric Dipoles* $\vec{p}$
+	![Polarized Atom](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedAtom.png?raw=true)
+
+		- $\vec{p}=q\vec{d}$
+		- The nucleus deviates from the center with displacement $\vec{d}$.
+		- Induced from the applied electric fields or the asymmetric structure of the molecules, such as $H_2O$
+	- *Polarized charges*
+	![enter image description here](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedMedia.png?raw=true)
+
+		- Density: $\rho_{p}$
+		- The polarized charges are generally canceled within the media, so that the $\rho_{p}=0$ insides.
+		- The immobile atomic dipoles on the outside surfaces of the medium are not fully canceled, contributing to the ***surface polarization charges***, $\rho_{sp}$.
+
+- Electric Displacement Vector $\vec{D}$ 
+
+	$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+\chi)$$
+
+
 	
-	The electric field applied to the media inducing the *polarization charges* $\rho_p$, and *electric dipoles* $\vec{p}$. The polarization charges generally cancels within the media, while the polarization charges near the surface not, contributing to the *surface polarization charge* $\rho_{sp}$.
+	- Origin
 
-- Electric Displacement Vector $\vec{D}$
+		- ***Polarization Vector*** $\vec{P}=nq\vec{d}$, *n* is the density of atoms.
+		
+		Suppose the electric field is parallel to the z axes. Take a volume *V* that encloses a unit area *A* of the left-hand face of the polarized dielectric, yielding:
+		$$-\int_V\rho_pdv=nq\vec{d}=\int_A\vec{P}\cdot\hat{n}da=\int_v\nabla\cdot\vec{P}dv$$
+	
+		$$\therefore \nabla\cdot\vec{P}=-\rho_p$$
 
-$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+x)$$
+		 From the Gauss's Law for charge:
+
+		$$\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}$$
+
+		$$\varepsilon_0\nabla\cdot\vec{E}+\nabla\cdot\vec{P}=\rho_f$$
+
+		$$\nabla\cdot(\varepsilon_0\vec{E}+\vec{P})=\rho_f$$
+
+		Define: 
+
+		$$\vec{D}\equiv\varepsilon_0\vec{E}+\vec{P} \tag{Electric Displacement Vector}$$
+
+		And:
+		
+		$$\varepsilon=\frac{||\vec{D}||}{||\vec{E}||} \tag{Permittivity in Media}$$
+
+		$$\chi=\frac{||\vec{P}||}{\varepsilon_0||\vec{E}||} \tag{Susceptibility}$$
+
+		Then:
+		
+		$$\vec{D}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon\vec{E}=\varepsilon_0(1+\chi)\vec{E}$$
+
+	- $\chi$ is generally less than 3, because the nuclei are bound tightly to their electron clouds.
 
 ### Permeability $\mu$
+
+$$
+	\vec{B}=\mu\vec{H}=\mu_0(\vec{H}+\vec{M})=\mu_0(1+\chi_m)
+$$
+
+-	$\vec{M}$, ***Magnetization***
+-	$\chi_m$, ***Magnetic Susceptibility***
+	-	$\chi_m < 0, \mu<\mu_0$ in *diamagnetic materials*
+	-	$\chi_m > 0, \mu>\mu_0$ in *paramagnetic materials*
+	-	$\mu\approxeq\mu_0$ in both diamagnetic and prarmagnetic materials
+	-	$\chi_m\gg0, \mu\gg\mu_0$, in *ferromagnetic materials*
+- *Ferromagnetic materials*
+	- The atomic magnetic dipoles spontaneously align over ***magnetic domains***
+	
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MT
-YyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYw
-NSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0Nj
-Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
-Nl19
+eyJoaXN0b3J5IjpbLTE4MjM4OTYyODAsMjAyMDg2MTk4OSwtMT
+E2MzM1NTE0OCwxNzEyMTc2MDg3LDUyOTc1Mjc2OCwtOTQ1ODQ4
+OTM4LC0xNDYxODY5ODAyLC00MDgzNTYyMzMsMjAxNjA2NDUxMC
+wxODE0NzE5MzMsMTAzMDA5NTY0MCwyMDkxNjI5NjUzLDkyNTc2
+NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgwNjA1LC0zMDExODQ5OC
+w0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5
+MTY1NF19
 -->
