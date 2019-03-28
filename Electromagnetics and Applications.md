@@ -335,7 +335,8 @@ $$
 	- The atomic magnetic dipoles spontaneously align over ***magnetic domains***
 	- The size of those domains oriented in the general direction of the applied magnetic field grow ad that field increases.
 	- If the domain wall moves easily, the magnetic susceptibility $\chi_m$ is large.
-	- Sufficiently high magnetic fields forces 
+	- ***Magnetic Saturation*** Sufficiently high magnetic fields forces all domains expand to their maximum and rotate in the direction $\vec{H}$, leading to the maximum value of $\vec{M}$
+	- ***
 	
 
 
@@ -343,11 +344,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDAxMTU3MiwtNzQyODQ0NzA0LC0xOD
-IzODk2MjgwLDIwMjA4NjE5ODksLTExNjMzNTUxNDgsMTcxMjE3
-NjA4Nyw1Mjk3NTI3NjgsLTk0NTg0ODkzOCwtMTQ2MTg2OTgwMi
-wtNDA4MzU2MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAw
-OTU2NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0Mj
-YsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1
-NjQ2NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwMzUxNDQyOTAsLTc0Mjg0NDcwNCwtMT
+gyMzg5NjI4MCwyMDIwODYxOTg5LC0xMTYzMzU1MTQ4LDE3MTIx
+NzYwODcsNTI5NzUyNzY4LC05NDU4NDg5MzgsLTE0NjE4Njk4MD
+IsLTQwODM1NjIzMywyMDE2MDY0NTEwLDE4MTQ3MTkzMywxMDMw
+MDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0LC0xODUyNDY4ND
+I2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYz
+NTY0NjY4XX0=
 -->
