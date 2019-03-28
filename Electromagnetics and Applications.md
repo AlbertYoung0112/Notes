@@ -270,7 +270,7 @@ $$\vec{J}=\sigma \vec{E}$$
 
 	- *Electric Dipoles* $\vec{p}$
 		- $\vec{p}=q\vec{d}$
-		- Induced from the applied electric fields or 
+		- Induced from the applied electric fields or the asymmetric structure of the molecules, such as $H_2O$
 	- *Polarized charges*
 
 - Electric Displacement Vector $\vec{D}$
@@ -282,9 +282,9 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjA2NDUxMCwxODE0NzE5MzMsMTAzMD
-A5NTY0MCwyMDkxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQy
-NiwyMDU1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2Mz
-U2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1
-MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTQzMDM2MjU5MCwyMDE2MDY0NTEwLDE4MT
+Q3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0
+LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1OD
+k3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0
+LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ==
 -->
