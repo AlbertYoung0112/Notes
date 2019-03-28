@@ -290,7 +290,7 @@ $$\vec{J}=\sigma \vec{E}$$
 	- ***Susceptibility*** $\chi$
 		- Because the nuclei are bound tightly to their electron clouds, $\chi$ is generally less than 3.
 	
-	- Derivation
+	- Origin
 		
 		Suppose the electric field is parallel to the z axes. Take a volume *V* that encloses a unit area *A* of the left-hand face of the polarized dielectric, yielding:
 		$$-\int_V\rho_pdv=nq\vec{d}=\int_A\vec{P}\cdot\hat{n}da=\int_v\nabla\cdot\vec{P}dv$$
@@ -324,10 +324,11 @@ $$\vec{J}=\sigma \vec{E}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjE3NjA4Nyw1Mjk3NTI3NjgsLTk0NT
-g0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1
-MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5Mj
-U3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0
-OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OT
-g0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbLTc1NjgyNDA1OCwxNzEyMTc2MDg3LDUyOT
+c1Mjc2OCwtOTQ1ODQ4OTM4LC0xNDYxODY5ODAyLC00MDgzNTYy
+MzMsMjAxNjA2NDUxMCwxODE0NzE5MzMsMTAzMDA5NTY0MCwyMD
+kxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgw
+NjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxOD
+Q2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgz
+MDI2XX0=
 -->
