@@ -337,6 +337,7 @@ $$
 	- If the domain wall moves easily, the magnetic susceptibility $\chi_m$ is large.
 	- ***Magnetic Saturation*** Sufficiently high magnetic fields forces all domains expand to their maximum and rotate in the direction $\vec{H}$, leading to the maximum value of $\vec{M}$
 	- ***Hysteresis Curve***
+		![enter image description here](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/HysteresisCurve.png?raw=true)
 	
 
 
@@ -344,11 +345,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM1Nzk4OTQsLTc0Mjg0NDcwNCwtMT
-gyMzg5NjI4MCwyMDIwODYxOTg5LC0xMTYzMzU1MTQ4LDE3MTIx
-NzYwODcsNTI5NzUyNzY4LC05NDU4NDg5MzgsLTE0NjE4Njk4MD
-IsLTQwODM1NjIzMywyMDE2MDY0NTEwLDE4MTQ3MTkzMywxMDMw
-MDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0LC0xODUyNDY4ND
-I2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYz
-NTY0NjY4XX0=
+eyJoaXN0b3J5IjpbLTkwOTQ3MTE3OSwtMTA4MzU3OTg5NCwtNz
+QyODQ0NzA0LC0xODIzODk2MjgwLDIwMjA4NjE5ODksLTExNjMz
+NTUxNDgsMTcxMjE3NjA4Nyw1Mjk3NTI3NjgsLTk0NTg0ODkzOC
+wtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1MTAsMTgx
+NDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5MjU3NjcwNj
+QsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4
+OTcyMjg1XX0=
 -->
