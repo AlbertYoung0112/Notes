@@ -292,10 +292,8 @@ $$\vec{J}=\sigma \vec{E}$$
 	
 	- Derivation
 		
-		$$
-			\begin{aligned}
-				\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}
-			\end{aligned}
+		$$\varepsilon_0\nabla\cdot\vec{E}=&\rho \tag{Gauss's Law}$$
+				\varepsilon_0\nabla\cdot\vec{E}=&\rho_{f}+\rho_{p} \\
 		$$
 
 ### Permeability $\mu$
@@ -303,7 +301,7 @@ $$\vec{J}=\sigma \vec{E}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk3MDg4NDksNTI5NzUyNzY4LC05ND
+eyJoaXN0b3J5IjpbLTExMTUzOTA4MzksNTI5NzUyNzY4LC05ND
 U4NDg5MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0
 NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOT
 I1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4
