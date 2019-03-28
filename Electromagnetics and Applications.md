@@ -335,7 +335,7 @@ $$
 	- The atomic magnetic dipoles spontaneously align over ***magnetic domains***
 	- The size of those domains oriented in the general direction of the applied magnetic field grow ad that field increases.
 	- If the domain wall moves easily, the magnetic susceptibility $\chi_m$ is large.
-	- Sufficiently high mag
+	- Sufficiently high magnetic fields forces 
 	
 
 
@@ -343,7 +343,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDg2Njk4MiwtNzQyODQ0NzA0LC0xOD
+eyJoaXN0b3J5IjpbLTU5MDAxMTU3MiwtNzQyODQ0NzA0LC0xOD
 IzODk2MjgwLDIwMjA4NjE5ODksLTExNjMzNTUxNDgsMTcxMjE3
 NjA4Nyw1Mjk3NTI3NjgsLTk0NTg0ODkzOCwtMTQ2MTg2OTgwMi
 wtNDA4MzU2MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAw
