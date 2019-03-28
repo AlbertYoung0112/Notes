@@ -267,7 +267,9 @@ $$\vec{J}=\sigma \vec{E}$$
 	
 - Polarization
 	
-	The electric field applied to the media inducing the *polarization charges* $\rho_p$, and *electric dipoles* $\vec{p}$. The polarization charges generally cancels within the media, while the polarization charges near the surface not, contributing to the *surface polarization charge* $\rho_{sp}$.
+	![Polarized Atom](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedAtom.png?raw=true)
+
+	- The 
 
 - Electric Displacement Vector $\vec{D}$
 
@@ -278,9 +280,9 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MT
-YyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYw
-NSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0Nj
-Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
-Nl19
+eyJoaXN0b3J5IjpbLTEzNzM4NjY2MTcsMTgxNDcxOTMzLDEwMz
+AwOTU2NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0
+MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNj
+M1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkx
+NTMsLTI4ODE4MzAyNl19
 -->
