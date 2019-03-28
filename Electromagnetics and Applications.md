@@ -332,6 +332,7 @@ $$
 	-	$\mu\approxeq\mu_0$ in both diamagnetic and prarmagnetic materials
 	-	$\chi_m\gg0, \mu\gg\mu_0$, in *ferromagnetic materials*
 - *Ferromagnetic materials*
+	- The atomic magnetic dipoles spontaneously align over ***magnetic domains***
 	
 
 
@@ -339,11 +340,11 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTM2OTA5NywyMDIwODYxOTg5LC0xMT
-YzMzU1MTQ4LDE3MTIxNzYwODcsNTI5NzUyNzY4LC05NDU4NDg5
-MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0NTEwLD
-E4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3
-MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LD
-Q1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkx
-NjU0XX0=
+eyJoaXN0b3J5IjpbLTE4MjM4OTYyODAsMjAyMDg2MTk4OSwtMT
+E2MzM1NTE0OCwxNzEyMTc2MDg3LDUyOTc1Mjc2OCwtOTQ1ODQ4
+OTM4LC0xNDYxODY5ODAyLC00MDgzNTYyMzMsMjAxNjA2NDUxMC
+wxODE0NzE5MzMsMTAzMDA5NTY0MCwyMDkxNjI5NjUzLDkyNTc2
+NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgwNjA1LC0zMDExODQ5OC
+w0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5
+MTY1NF19
 -->
