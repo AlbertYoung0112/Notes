@@ -280,17 +280,17 @@ $$\vec{J}=\sigma \vec{E}$$
 
 - Electric Displacement Vector $\vec{D}$
 
-$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+x)$$
+$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+\chi)$$
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMD
-E2MDY0NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2
-NTMsOTI1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLT
-MwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2
-NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ
-==
+eyJoaXN0b3J5IjpbLTE4NDY4MjkwMiwtMTQ2MTg2OTgwMiwtND
+A4MzU2MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAwOTU2
+NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMj
+A1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2
+NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLT
+I4ODE4MzAyNl19
 -->
