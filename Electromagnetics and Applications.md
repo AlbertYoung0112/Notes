@@ -292,19 +292,18 @@ $$\vec{J}=\sigma \vec{E}$$
 	
 	- Derivation
 		
-		$$\varepsilon_0\nabla\cdot\vec{E}=&\rho \tag{Gauss's Law}$$
-				\varepsilon_0\nabla\cdot\vec{E}=&\rho_{f}+\rho_{p} \\
-		$$
+		$$\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}$$
+		$$\vec{P}=\int_V\nabla\cdot\vec{P}dv\$$
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUzOTA4MzksNTI5NzUyNzY4LC05ND
-U4NDg5MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0
-NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOT
-I1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4
-NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsND
-k4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbMTcyNzE2MzIwNCw1Mjk3NTI3NjgsLTk0NT
+g0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1
+MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5Mj
+U3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0
+OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OT
+g0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
