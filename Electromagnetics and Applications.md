@@ -272,9 +272,10 @@ $$\vec{J}=\sigma \vec{E}$$
 		- $\vec{p}=q\vec{d}$
 		- Induced from the applied electric fields or the asymmetric structure of the molecules, such as $H_2O$
 	- *Polarized charges*
+		![enter image description here](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedMedia.png?raw=true)
 		- Density: $\rho_{p}$
 		- The polarized charges are generally canceled within the media, so that the $\rho_{p}=0$ insides.
-		- The immobile atomic dipoles on the outside surfaces of the medium are not fully canceled, contributing to the ***surface polarization charges***, $\vec{\rho_{}}$.
+		- The immobile atomic dipoles on the outside surfaces of the medium are not fully canceled, contributing to the ***surface polarization charges***, $\rho_{sp}$.
 
 - Electric Displacement Vector $\vec{D}$
 
@@ -285,7 +286,7 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjEwNTc5OSwyMDE2MDY0NTEwLDE4MT
+eyJoaXN0b3J5IjpbLTQwODM1NjIzMywyMDE2MDY0NTEwLDE4MT
 Q3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0
 LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1OD
 k3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0
