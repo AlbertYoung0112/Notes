@@ -257,11 +257,30 @@ $$k
 	\oiint_A(\vec{B}\cdot\hat{n})da=0 \tag{Gauss's Law for Magnetics}
 $$
 
+## Electric and Magnetic in *Media*
+
+### Conductivity $\sigma$
+
+$$\vec{J}=\sigma \vec{E}$$
+
+### Permittivity $\varepsilon$
+	
+- Polarization
+	
+	The electric field applied to the media inducing the *polarization charges* $\rho_p$, and *electric dipoles* $\vec{p}$. The polarization charges generally cancels within the media, while the polarization charges near the surface not, contributing to the *surface polarization charge* $\rho_{sp}$.
+
+- Electric Displacement Vector $\vec{D}$
+
+$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+x)$$
+
+### Permeability $\mu$
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDA5NTY0MCwyMDkxNjI5NjUzLDkyNT
-c2NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgwNjA1LC0zMDExODQ5
-OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3LDQ5OD
-Q5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MT
+YyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYw
+NSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0Nj
+Q3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAy
+Nl19
 -->
