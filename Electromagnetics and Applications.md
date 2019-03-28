@@ -270,6 +270,7 @@ $$\vec{J}=\sigma \vec{E}$$
 
 	- *Electric Dipoles* $\vec{p}$
 		- $\vec{p}=q\vec{d}$
+		- The nucleus deviates from the center with displacement $\vec{d}$.
 		- Induced from the applied electric fields or the asymmetric structure of the molecules, such as $H_2O$
 	- *Polarized charges*
 		![enter image description here](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedMedia.png?raw=true)
@@ -286,9 +287,10 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODM1NjIzMywyMDE2MDY0NTEwLDE4MT
-Q3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0
-LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1OD
-k3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0
-LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMD
+E2MDY0NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2
+NTMsOTI1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLT
+MwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2
+NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ
+==
 -->
