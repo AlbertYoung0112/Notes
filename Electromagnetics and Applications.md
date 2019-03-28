@@ -293,14 +293,14 @@ $$\vec{J}=\sigma \vec{E}$$
 	- Derivation
 		
 		$$\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}$$
-		$$\vec{P}=\int_V\nabla\cdot\vec{P}dv=\int_A\vec{P}\cdot\hat{n}da\xlongequal{A=1}P_z=$$
+		$$\vec{P}=\int_V\nabla\cdot\vec{P}dv=\int_A\vec{P}\cdot\hat{n}da\xlongequal{A=1}\hat{z}P_z=$$
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgyOTYwNjksNTI5NzUyNzY4LC05ND
+eyJoaXN0b3J5IjpbLTEzNTU1ODMzNjIsNTI5NzUyNzY4LC05ND
 U4NDg5MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0
 NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOT
 I1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4
