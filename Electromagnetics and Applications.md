@@ -329,7 +329,9 @@ $$
 -	$\chi_m$, ***Magnetic Susceptibility***
 	-	$\chi_m < 0, \mu<\mu_0$ in *diamagnetic materials*
 	-	$\chi_m > 0, \mu>\mu_0$ in *paramagnetic materials*
-	-	$\mu\approxeq\mu_0$ in both diamagnetic and prarmagn
+	-	$\mu\approxeq\mu_0$ in both diamagnetic and prarmagnetic materials
+	-	$\chi_m\gg0, \mu\gg\mu_0$, in *ferromagnetic materials*
+- *Ferromagnetic materials*
 	
 
 
@@ -337,7 +339,7 @@ $$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjYzMzE3NiwyMDIwODYxOTg5LC0xMT
+eyJoaXN0b3J5IjpbMTMyNTM2OTA5NywyMDIwODYxOTg5LC0xMT
 YzMzU1MTQ4LDE3MTIxNzYwODcsNTI5NzUyNzY4LC05NDU4NDg5
 MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0NTEwLD
 E4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3
