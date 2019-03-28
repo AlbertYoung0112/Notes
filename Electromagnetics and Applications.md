@@ -317,7 +317,8 @@ $$\vec{J}=\sigma \vec{E}$$
 		
 		$$\vec{D}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon\vec{E}=\varepsilon_0(1+\chi)\vec{E}$$
 
-	- Because the nuclei are bound tightly to their electron clouds, $\chi$ is generally less than 3.
+	- $\chi$ is generally less than 3, because the nuclei are bound tightly to their electron clouds.
+	- 
 
 ### Permeability $\mu$
 
@@ -326,11 +327,11 @@ $$\vec{J}=\sigma \vec{E}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMzNTUxNDgsMTcxMjE3NjA4Nyw1Mj
-k3NTI3NjgsLTk0NTg0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2
-MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMj
-A5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4
-MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMT
-g0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4
-MzAyNl19
+eyJoaXN0b3J5IjpbMjAyMDg2MTk4OSwtMTE2MzM1NTE0OCwxNz
+EyMTc2MDg3LDUyOTc1Mjc2OCwtOTQ1ODQ4OTM4LC0xNDYxODY5
+ODAyLC00MDgzNTYyMzMsMjAxNjA2NDUxMCwxODE0NzE5MzMsMT
+AzMDA5NTY0MCwyMDkxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2
+ODQyNiwyMDU1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMT
+A2MzU2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYw
+OTE1M119
 -->
