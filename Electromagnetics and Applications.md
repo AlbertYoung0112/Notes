@@ -266,10 +266,10 @@ $$\vec{J}=\sigma \vec{E}$$
 ### Permittivity $\varepsilon$
 	
 - Polarization
-
 ![Polarized Atom](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedAtom.png?raw=true)
 
-	- *Electric Dipoles*
+	- *Electric Dipoles* $\vec{p}$
+		- $\vec{p}$
 	- *Polarized charges*
 
 - Electric Displacement Vector $\vec{D}$
@@ -281,9 +281,9 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQyNDA3ODEsMTgxNDcxOTMzLDEwMz
-AwOTU2NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0
-MjYsMjA1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNj
-M1NjQ2NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkx
-NTMsLTI4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbMTgxMzcxNzA2MCwxODE0NzE5MzMsMTAzMD
+A5NTY0MCwyMDkxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQy
+NiwyMDU1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2Mz
+U2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1
+MywtMjg4MTgzMDI2XX0=
 -->
