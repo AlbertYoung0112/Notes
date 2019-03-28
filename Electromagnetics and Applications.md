@@ -311,20 +311,20 @@ $$\vec{J}=\sigma \vec{E}$$
 
 		And:
 		
-		$$\varepsilon=\frac{||\vec{D}||}{||\vec{E}||}$$
+		$$\varepsilon=\frac{||\vec{D}||}{||\vec{E}||} \tag{Permittivity in Media}$$
 
-		$$\chi=\frac{||\vec{P}||}{\varepsilon_0||\vec{E}||}$$
+		$$\chi=\frac{||\vec{P}||}{\varepsilon_0||\vec{E}||} \tag{Susceptibility}$$
 
 		Then:
 		
-		$$\vec{D}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon\vec{E}=\varepsilon{}$$
+		$$\vec{D}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon\vec{E}=\varepsilon_0(1+\chi)\vec{E}$$
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTY4ODA0OCw1Mjk3NTI3NjgsLTk0NT
+eyJoaXN0b3J5IjpbMTcxMjE3NjA4Nyw1Mjk3NTI3NjgsLTk0NT
 g0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1
 MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5Mj
 U3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0
