@@ -292,14 +292,18 @@ $$\vec{J}=\sigma \vec{E}$$
 	
 	- Derivation
 		
-		$$\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}$$
-		
 		Suppose the electric field is parallel to the z axes. Take a volume *V* that encloses a unit area *A* of the left-hand face of the polarized dielectric, yielding:
 		$$-\int_V\rho_pdv=nq\vec{d}=\int_A\vec{P}\cdot\hat{n}da=\int_v\nabla\cdot\vec{P}dv$$
 	
 		$$\therefore \nabla\cdot\vec{P}=-\rho_p$$
 
+		 The Gauss's Law for charge says:
+
+		$$\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}$$
+
 		$$\varepsilon_0\nabla\cdot\vec{E}+\nabla\cdot\vec{P}=\rho_f$$
+
+		$$\nabla\cdot(\varepsilon_0\vec{E}+\vec{P})=\rho_f$$
 
 		$$$$
 
@@ -308,7 +312,7 @@ $$\vec{J}=\sigma \vec{E}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYzMzU2NTQsNTI5NzUyNzY4LC05ND
+eyJoaXN0b3J5IjpbLTEyMDg3NzEzMTUsNTI5NzUyNzY4LC05ND
 U4NDg5MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0
 NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOT
 I1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4
