@@ -315,15 +315,19 @@ $$\vec{J}=\sigma \vec{E}$$
 
 		$$\chi=\frac{||\vec{P}||}{\varepsilon_0||\vec{E}||}$$
 
+		Then:
+		
+		$$\vec{D}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon\vec{E}=\varepsilon{}$$
+
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NDMzNjgzLDUyOTc1Mjc2OCwtOTQ1OD
-Q4OTM4LC0xNDYxODY5ODAyLC00MDgzNTYyMzMsMjAxNjA2NDUx
-MCwxODE0NzE5MzMsMTAzMDA5NTY0MCwyMDkxNjI5NjUzLDkyNT
-c2NzA2NCwtMTg1MjQ2ODQyNiwyMDU1MTgwNjA1LC0zMDExODQ5
-OCw0NTg5NzIyODUsMTA2MzU2NDY2OCwxODQ2NDczNjU3LDQ5OD
-Q5MTY1NCwtMTY4ODYwOTE1MywtMjg4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTc3MTY4ODA0OCw1Mjk3NTI3NjgsLTk0NT
+g0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1
+MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5Mj
+U3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0
+OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OT
+g0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
