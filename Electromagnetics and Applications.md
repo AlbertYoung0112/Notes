@@ -286,18 +286,19 @@ $$\vec{J}=\sigma \vec{E}$$
 
 	- ***Polarization Vector*** $\vec{P}$
 		- $\vec{P}=nq\vec{d}$, *n* is the density of atoms
-		- $\vec{P]=\vec{E}silon_0$
-	- 
+		- $\vec{P}=\vec{E}\varepsilon_0\chi$
+	- ***Susceptibility*** $\chi$
+		- Because the nuclei are bound tig
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI1NzQ3NzksLTE0NjE4Njk4MDIsLT
-QwODM1NjIzMywyMDE2MDY0NTEwLDE4MTQ3MTkzMywxMDMwMDk1
-NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0LC0xODUyNDY4NDI2LD
-IwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0
-NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC
-0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbODQ3NjM1MjkwLC0xNDYxODY5ODAyLC00MD
+gzNTYyMzMsMjAxNjA2NDUxMCwxODE0NzE5MzMsMTAzMDA5NTY0
+MCwyMDkxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQyNiwyMD
+U1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2
+OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMj
+g4MTgzMDI2XX0=
 -->
