@@ -266,21 +266,24 @@ $$\vec{J}=\sigma \vec{E}$$
 ### Permittivity $\varepsilon$
 	
 - Polarization
-![Polarized Atom](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedAtom.png?raw=true)
+
+	![Polarized Atom](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedAtom.png?raw=true)
 
 	- *Electric Dipoles* $\vec{p}$
 		- $\vec{p}=q\vec{d}$
 		- The nucleus deviates from the center with displacement $\vec{d}$.
 		- Induced from the applied electric fields or the asymmetric structure of the molecules, such as $H_2O$
 	- *Polarized charges*
-		![enter image description here](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedMedia.png?raw=true)
+	![enter image description here](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedMedia.png?raw=true)
+
 		- Density: $\rho_{p}$
 		- The polarized charges are generally canceled within the media, so that the $\rho_{p}=0$ insides.
 		- The immobile atomic dipoles on the outside surfaces of the medium are not fully canceled, contributing to the ***surface polarization charges***, $\rho_{sp}$.
 
 - Electric Displacement Vector $\vec{D}$ 
 
-$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+\chi)$$
+	$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+\chi)$$
+
 	- 
 
 ### Permeability $\mu$
@@ -288,10 +291,10 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4MzQ2MzEsLTE0NjE4Njk4MDIsLT
-QwODM1NjIzMywyMDE2MDY0NTEwLDE4MTQ3MTkzMywxMDMwMDk1
-NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0LC0xODUyNDY4NDI2LD
-IwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0
-NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNjg4NjA5MTUzLC
-0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbMTgyMTc5MzU1MSwtMTQ2MTg2OTgwMiwtND
+A4MzU2MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAwOTU2
+NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMj
+A1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2
+NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLT
+I4ODE4MzAyNl19
 -->
