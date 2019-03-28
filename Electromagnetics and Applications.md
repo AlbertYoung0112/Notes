@@ -290,17 +290,23 @@ $$\vec{J}=\sigma \vec{E}$$
 	- ***Susceptibility*** $\chi$
 		- Because the nuclei are bound tightly to their electron clouds, $\chi$ is generally less than 3.
 	
-	- From 
+	- Derivation
+		
+		$$
+			\begin{aligned}
+				
+			\end{aligned}
+		$$
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAxMjk3NjMsNTI5NzUyNzY4LC05ND
-U4NDg5MzgsLTE0NjE4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0
-NTEwLDE4MTQ3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOT
-I1NzY3MDY0LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4
-NDk4LDQ1ODk3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsND
-k4NDkxNjU0LC0xNjg4NjA5MTUzLC0yODgxODMwMjZdfQ==
+eyJoaXN0b3J5IjpbLTM0Nzg3OTc3Miw1Mjk3NTI3NjgsLTk0NT
+g0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1
+MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5Mj
+U3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0
+OTgsNDU4OTcyMjg1LDEwNjM1NjQ2NjgsMTg0NjQ3MzY1Nyw0OT
+g0OTE2NTQsLTE2ODg2MDkxNTMsLTI4ODE4MzAyNl19
 -->
