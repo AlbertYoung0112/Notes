@@ -295,14 +295,16 @@ $$\vec{J}=\sigma \vec{E}$$
 		$$\varepsilon_0\nabla\cdot\vec{E}\xlongequal{Gauss's Law}\rho=\rho_{f}+\rho_{p}$$
 		
 		Suppose the electric field is parallel to the z axes. Take a volume *V* that encloses a unit area *A* of the left-hand face of the polarized dielectric, yielding:
-		$$nq\vec{d}=-\int_V\rho_pdv=\int_A\vec{P}\cdot\hat{n}da$$
+		$$-\int_V\rho_pdv=nq\vec{d}=\int_A\vec{P}\cdot\hat{n}da=\int_v\nabla\cdot\vec{P}dv$$
+	
+		$$\therefore \nabla\cdot\vec{P}=-$$
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTA2Mzk1OCw1Mjk3NTI3NjgsLTk0NT
+eyJoaXN0b3J5IjpbLTM4MDEyMzY1NSw1Mjk3NTI3NjgsLTk0NT
 g0ODkzOCwtMTQ2MTg2OTgwMiwtNDA4MzU2MjMzLDIwMTYwNjQ1
 MTAsMTgxNDcxOTMzLDEwMzAwOTU2NDAsMjA5MTYyOTY1Myw5Mj
 U3NjcwNjQsLTE4NTI0Njg0MjYsMjA1NTE4MDYwNSwtMzAxMTg0
