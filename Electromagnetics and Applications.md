@@ -289,16 +289,17 @@ $$\vec{J}=\sigma \vec{E}$$
 		- $\vec{P}=\vec{E}\varepsilon_0\chi$
 	- ***Susceptibility*** $\chi$
 		- Because the nuclei are bound tightly to their electron clouds, $\chi$ is generally less than 3.
+	
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTg0ODkzOCwtMTQ2MTg2OTgwMiwtND
-A4MzU2MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAwOTU2
-NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMj
-A1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2
-NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLT
-I4ODE4MzAyNl19
+eyJoaXN0b3J5IjpbNTI5NzUyNzY4LC05NDU4NDg5MzgsLTE0Nj
+E4Njk4MDIsLTQwODM1NjIzMywyMDE2MDY0NTEwLDE4MTQ3MTkz
+MywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0LC0xOD
+UyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4
+NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0LC0xNj
+g4NjA5MTUzLC0yODgxODMwMjZdfQ==
 -->
