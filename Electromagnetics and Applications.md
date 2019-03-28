@@ -274,7 +274,7 @@ $$\vec{J}=\sigma \vec{E}$$
 	- *Polarized charges*
 		- Density: $\rho_{p}$
 		- The polarized charges are generally canceled within the media, so that the $\rho_{p}=0$ insides.
-		- The immoible
+		- The immobile atomic dipoles on the outside surfaces of the medium are not fully canceled, contributing to the ***surface polarization charges***, $\vec{\rho_{}}$.
 
 - Electric Displacement Vector $\vec{D}$
 
@@ -285,7 +285,7 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjQ3NjY0MCwyMDE2MDY0NTEwLDE4MT
+eyJoaXN0b3J5IjpbLTk2MjEwNTc5OSwyMDE2MDY0NTEwLDE4MT
 Q3MTkzMywxMDMwMDk1NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0
 LC0xODUyNDY4NDI2LDIwNTUxODA2MDUsLTMwMTE4NDk4LDQ1OD
 k3MjI4NSwxMDYzNTY0NjY4LDE4NDY0NzM2NTcsNDk4NDkxNjU0
