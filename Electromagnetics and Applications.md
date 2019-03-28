@@ -285,7 +285,8 @@ $$\vec{J}=\sigma \vec{E}$$
 	$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+\chi)$$
 
 	- ***Polarization Vector*** $\vec{P}$
-		- $\vec{P}=nq\$
+		- $\vec{P}=nq\vec{d}$, *n* is the density of atoms
+		- $\vec{P]=\vec{E}silon_0$
 	- 
 
 ### Permeability $\mu$
@@ -293,7 +294,7 @@ $$\vec{J}=\sigma \vec{E}$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY0OTU5NDQsLTE0NjE4Njk4MDIsLT
+eyJoaXN0b3J5IjpbLTE2OTI1NzQ3NzksLTE0NjE4Njk4MDIsLT
 QwODM1NjIzMywyMDE2MDY0NTEwLDE4MTQ3MTkzMywxMDMwMDk1
 NjQwLDIwOTE2Mjk2NTMsOTI1NzY3MDY0LC0xODUyNDY4NDI2LD
 IwNTUxODA2MDUsLTMwMTE4NDk4LDQ1ODk3MjI4NSwxMDYzNTY0
