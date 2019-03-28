@@ -269,7 +269,8 @@ $$\vec{J}=\sigma \vec{E}$$
 ![Polarized Atom](https://github.com/AlbertYoung0112/Notes/blob/master/EA-Img/PolarizedAtom.png?raw=true)
 
 	- *Electric Dipoles* $\vec{p}$
-		- $\vec{p}$
+		- $\vec{p}=q\vec{d}$
+		- Induced from the applied electric fields or 
 	- *Polarized charges*
 
 - Electric Displacement Vector $\vec{D}$
@@ -281,7 +282,7 @@ $$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzcxNzA2MCwxODE0NzE5MzMsMTAzMD
+eyJoaXN0b3J5IjpbMjAxNjA2NDUxMCwxODE0NzE5MzMsMTAzMD
 A5NTY0MCwyMDkxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQy
 NiwyMDU1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2Mz
 U2NDY2OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1
