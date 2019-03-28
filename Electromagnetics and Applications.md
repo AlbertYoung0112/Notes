@@ -285,20 +285,20 @@ $$\vec{J}=\sigma \vec{E}$$
 	$$\vec{D}=\varepsilon\vec{E}=\varepsilon_0\vec{E}+\vec{P}=\varepsilon_0\vec{E}(1+\chi)$$
 
 	- ***Polarization Vector*** $\vec{P}$
-		- $\vec{P}=nq\vec{d}$, *n* is the density of atoms
+		- $\vec{P}=nq\vec{d}$, *n* is the density of atoms.
 		- $\vec{P}=\vec{E}\varepsilon_0\chi$
 	- ***Susceptibility*** $\chi$
-		- Because the nuclei are bound tig
+		- Because the nuclei are bound tightly to their electron clouds, $\chi$ is generally less than 3.
 
 ### Permeability $\mu$
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NjM1MjkwLC0xNDYxODY5ODAyLC00MD
-gzNTYyMzMsMjAxNjA2NDUxMCwxODE0NzE5MzMsMTAzMDA5NTY0
-MCwyMDkxNjI5NjUzLDkyNTc2NzA2NCwtMTg1MjQ2ODQyNiwyMD
-U1MTgwNjA1LC0zMDExODQ5OCw0NTg5NzIyODUsMTA2MzU2NDY2
-OCwxODQ2NDczNjU3LDQ5ODQ5MTY1NCwtMTY4ODYwOTE1MywtMj
-g4MTgzMDI2XX0=
+eyJoaXN0b3J5IjpbLTk0NTg0ODkzOCwtMTQ2MTg2OTgwMiwtND
+A4MzU2MjMzLDIwMTYwNjQ1MTAsMTgxNDcxOTMzLDEwMzAwOTU2
+NDAsMjA5MTYyOTY1Myw5MjU3NjcwNjQsLTE4NTI0Njg0MjYsMj
+A1NTE4MDYwNSwtMzAxMTg0OTgsNDU4OTcyMjg1LDEwNjM1NjQ2
+NjgsMTg0NjQ3MzY1Nyw0OTg0OTE2NTQsLTE2ODg2MDkxNTMsLT
+I4ODE4MzAyNl19
 -->
