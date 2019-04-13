@@ -28,7 +28,7 @@
 		\implies
 		\nabla^2V=0
 	$$
-	Suppose the equation $\nabla^2V=0$ has the solution V with formation of:
+	Suppose the equation $\nabla^2V=0$ has the solution $V$ with formation of:
 	$$
 		V(x,y)=X(x)\cdot Y(y)
 	$$
@@ -129,6 +129,6 @@
 		It's obvious the boundary constrains are satisfied.
 		The ***uniqueness of the electrostatic solutions*** tells us that the solution above is the only solution.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDQyNjg5OSwtMTY5MTgyNDk2MywtNz
+eyJoaXN0b3J5IjpbMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNz
 QzMjU5ODc1LDEyNDg1MjY1NDZdfQ==
 -->
