@@ -38,6 +38,7 @@
 			\frac{1}{X(x)}\frac{\partial X(x)}{\partial x} + 
 			\frac{1}{Y(x)}\frac{\partial Y(y)}{\partial y}=0
 	$$
+
 	$$
 		\iff -\frac{1}{X(x)}\frac{\partial X(x)}{\partial x}=\frac{1}{Y(y)}\frac{\partial Y(y)}{\partial y}
 	$$
@@ -59,7 +60,7 @@
 	$$
 
 
-	The solution to the equation set is :
+	We suppose $k\in R$ first. Therefore solution to the equation set is :
 	$$
 		\begin{cases}
 		X(x) = C_{x1}e^{kx}+C_{x2}e^{-kx} \\
@@ -127,6 +128,6 @@
 		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47_boundaryGrid.png?raw=true)
 		It's obvious the boundary constrains are satisfied.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE0OTMzODQsLTE2OTE4MjQ5NjMsLT
-c0MzI1OTg3NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbMTY0Mzg5NzczMiwtMTY5MTgyNDk2MywtNz
+QzMjU5ODc1LDEyNDg1MjY1NDZdfQ==
 -->
