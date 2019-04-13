@@ -113,10 +113,16 @@
 			\end{aligned}
 		$$
 		$$
+			\begin{aligned}
+				V(x, y) &= \sum ( C_{x1} e^{ \frac{n\pi}{b} x } + C_{x2} e^{ -\frac{n\pi}{b}x} )
+									C_y \sin( \frac{n\pi}{b} y ) \\
+							&= 
+			\end{aligned}
+		$$
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTc1NzIyNCwtNzQzMjU5ODc1LDEyND
-g1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDkwODcxNjUsLTc0MzI1OTg3NSwxMj
+Q4NTI2NTQ2XX0=
 -->
