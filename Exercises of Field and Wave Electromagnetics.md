@@ -81,31 +81,37 @@
 		$$
 		$$
 			\begin{aligned} 
-			&V(0, y) = V_0\\ 
-			\implies& \sum (C_{x1n}+C_{x2n}) C_{yn}\sin(\frac{n\pi}{b}y) = V_0\\
-			\implies& 
-				\int_0^b \sum (C_{x1n}+C_{x2n}) C_{yn} \sin( \frac{n\pi}{b} y) \sin( \frac{m\pi}{b} y )
-				 = \int_0^b V_0 \sin(\frac{m\pi}{b}y) \\
-			\implies&
-				\begin{cases}
-					\frac{b}{2}  (C_{x1n}+C_{x2n}) C_{yn} &, m=n \\
-					0 &, m =\not n
-				\end{cases}
-				= 
-				\begin{cases}
-					\frac{2bV_0}{m\pi} &, m \in \{Odd \} \\
-					0 &, m \in \{Even\}
-				\end{cases} \\
-			\implies& (C_{x1n}+C_{x2n}) C_{yn} = 
-				\begin{cases}
-					\frac{4V_0}{n\pi} &, n \in \{Odd\} \\
-					0 &, n \in \{Even\}
-				\end{cases}
+				&V(0, y) = V_0\\ 
+				\implies& \sum (C_{x1n}+C_{x2n}) C_{yn}\sin(\frac{n\pi}{b}y) = V_0\\
+				\implies& 
+					\int_0^b \sum (C_{x1n}+C_{x2n}) C_{yn} \sin( \frac{n\pi}{b} y) \sin( \frac{m\pi}{b} y )
+					 = \int_0^b V_0 \sin(\frac{m\pi}{b}y) \\
+				\implies&
+					\begin{cases}
+						\frac{b}{2}  (C_{x1n}+C_{x2n}) C_{yn} &, m=n \\
+						0 &, m =\not n
+					\end{cases}
+					= 
+					\begin{cases}
+						\frac{2bV_0}{m\pi} &, m \in \{Odd \} \\
+						0 &, m \in \{Even\}
+					\end{cases} \\
+				\implies& (C_{x1n}+C_{x2n}) C_{yn} = 
+					\begin{cases}
+						\frac{4V_0}{n\pi} &, n \in \{Odd\} \\
+						0 &, n \in \{Even\}
+					\end{cases}
+			\end{aligned}
+		$$
+		$$
+			\begin{aligned}
+				&V(a, y) = 0 \\
+				\implies& \sum (C_{x1n}+C_{x2n}) C_{yn}\sin(\frac{n\pi}{b}y)
 			\end{aligned}
 		$$
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODUyNjU0Nl19
+eyJoaXN0b3J5IjpbLTc0MzI1OTg3NSwxMjQ4NTI2NTQ2XX0=
 -->
