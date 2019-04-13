@@ -106,14 +106,15 @@
 		$$
 			\begin{aligned}
 				&V(a, y) = 0 \\
-				\implies& \sum ( C_{x1} e^{ \frac{n\pi}{b} a } + C_{x2} e^{ -\frac{n\pi}{b} a} )
-									C_y \sin( \frac{n\pi}{b} y ) = 0
+				\implies& \sum ( C_{x1n} e^{ \frac{n\pi}{b} a } + C_{x2n} e^{ -\frac{n\pi}{b} a} )
+									C_{yn} \sin( \frac{n\pi}{b} y ) = 0 \\
+				\implies&  C_{x1n} e^{ \frac{n\pi}{b} a } + C_{x2n} e^{ -\frac{n\pi}{b} a}  = 0 
 			\end{aligned}
 		$$
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjI0NTM2NywtNzQzMjU5ODc1LDEyND
+eyJoaXN0b3J5IjpbLTU3Njc1MDYxNCwtNzQzMjU5ODc1LDEyND
 g1MjY1NDZdfQ==
 -->
