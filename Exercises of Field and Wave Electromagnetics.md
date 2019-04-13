@@ -127,7 +127,8 @@
 	The $V(x,y)$ on the boundary:
 		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47_boundaryGrid.png?raw=true)
 		It's obvious the boundary constrains are satisfied.
+		The ***uniqueness of the electrostatic solutions*** tells us
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mzg5NzczMiwtMTY5MTgyNDk2MywtNz
+eyJoaXN0b3J5IjpbLTYyNTUxMDM3NywtMTY5MTgyNDk2MywtNz
 QzMjU5ODc1LDEyNDg1MjY1NDZdfQ==
 -->
