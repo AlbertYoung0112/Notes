@@ -122,11 +122,14 @@
 			\end{aligned}
 		$$
 		The solution with parameter $a=b=1[m], V_0=1[V]$ is plotted below:
-		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47.png?raw=true)
+		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47_funcGrid.png?raw=true)
+		The $V(x,y)$ on the boundary:
+		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47_boundaryGrid.png?raw=true)
+		It's obvious the boundary constrains are satisfied.
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyOTQyNjE3LC0xNjkxODI0OTYzLC03ND
-MyNTk4NzUsMTI0ODUyNjU0Nl19
+eyJoaXN0b3J5IjpbLTE2NzE1NTg2ODcsLTE2OTE4MjQ5NjMsLT
+c0MzI1OTg3NSwxMjQ4NTI2NTQ2XX0=
 -->
