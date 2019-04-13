@@ -121,11 +121,12 @@
 								\cdot \frac{2V_0}{n\pi} \cdot \sin(\frac{n\pi}{b} \cdot y)
 			\end{aligned}
 		$$
-		Test
+		The solution with parameter $a=b=1[m], V_0=1[V]$ is plotted below:
+		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47.png?raw=true)
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzM0MTc0NywtMTY5MTgyNDk2MywtNz
-QzMjU5ODc1LDEyNDg1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbODQyOTQyNjE3LC0xNjkxODI0OTYzLC03ND
+MyNTk4NzUsMTI0ODUyNjU0Nl19
 -->
