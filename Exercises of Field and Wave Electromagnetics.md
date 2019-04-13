@@ -121,10 +121,11 @@
 								\cdot \frac{2V_0}{n\pi} \cdot \sin(\frac{n\pi}{b} \cdot y)
 			\end{aligned}
 		$$
+		Test
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzk4MjIwNywtMTY5MTgyNDk2MywtNz
+eyJoaXN0b3J5IjpbMTMxNzM0MTc0NywtMTY5MTgyNDk2MywtNz
 QzMjU5ODc1LDEyNDg1MjY1NDZdfQ==
 -->
