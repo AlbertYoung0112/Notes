@@ -117,13 +117,14 @@
 				V(x, y)	&= \sum ( C_{x1} e^{ \frac{n\pi}{b} x } + C_{x2} e^{ -\frac{n\pi}{b}x} )
 									C_y \sin( \frac{n\pi}{b} y ) \\
 							&= \sum_{n\in \{Odd\}} 
-								\frac{ e^{ \frac{n\pi}{b} \cdot x} -e^{ \frac{n\pi}{b} \cdot(2a-x) }}{1-e^{2n\}}
+								\frac{ e^{ \frac{n\pi}{b} \cdot x} -e^{ \frac{n\pi}{b} \cdot(2a-x) }} {1-e^{2n\pi\frac{a}{b} }}
+								\cdot \frac{4V_0}{n\pi} \cdot \sin(\frac{n\pi}{b} \cdot y)
 			\end{aligned}
 		$$
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzk5MjU3OTQsLTc0MzI1OTg3NSwxMj
+eyJoaXN0b3J5IjpbLTE2OTE4MjQ5NjMsLTc0MzI1OTg3NSwxMj
 Q4NTI2NTQ2XX0=
 -->
