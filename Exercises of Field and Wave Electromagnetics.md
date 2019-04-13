@@ -109,13 +109,14 @@
 				\implies& \sum ( C_{x1n} e^{ \frac{n\pi}{b} a } + C_{x2n} e^{ -\frac{n\pi}{b} a} )
 									C_{yn} \sin( \frac{n\pi}{b} y ) = 0 \\
 				\implies&  C_{x1n} e^{ \frac{n\pi}{b} a } + C_{x2n} e^{ -\frac{n\pi}{b} a}  = 0 \\
-				\implies& C_{x2n} = -C_{x1n} (1-e)
+				\implies& C_{x2n} = -C_{x1n} (1 - e^{2\frac{n\pi}{b} a})
 			\end{aligned}
+		$$
 		$$
 		
 	- $k \notin R$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDE0NTg4LC03NDMyNTk4NzUsMTI0OD
-UyNjU0Nl19
+eyJoaXN0b3J5IjpbLTg1NTc1NzIyNCwtNzQzMjU5ODc1LDEyND
+g1MjY1NDZdfQ==
 -->
