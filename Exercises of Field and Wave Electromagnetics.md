@@ -149,7 +149,7 @@
 									&= \vec{a_{\phi}} M_0
 		\end{aligned}
 	$$
-	It's shown that the current density 
+	It's shown that there is no equivalent volume current density, and the equivalent surface current $I=||\vec{J}_{ms}||dz'$
 	From the $Biot-Savart's Law$:
 	$$
 		\begin{aligned} 
@@ -158,7 +158,7 @@
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzk3NDkzNSw1ODg4OTAyNDQsNDY3NT
-E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
-NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbODA3NzYxMzA5LDU4ODg5MDI0NCw0Njc1MT
+UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
+LDEyNDg1MjY1NDZdfQ==
 -->
