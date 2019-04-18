@@ -188,12 +188,12 @@
 			) dz \\
 		& \xlongequal{z=btan\theta+z_p} \vec{a_z} \frac{ \mu_0 M_0 b^2}{2 } 
 			\int_{\theta_0}^{\theta_1}(
-				\frac { 1 } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
-			) dz 
+				\frac { \cos\theta } { b^2} 
+			) d\theta, \th
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM0Mzk2MTgsNTg4ODkwMjQ0LDQ2Nz
-UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
-NzUsMTI0ODUyNjU0Nl19
+eyJoaXN0b3J5IjpbLTQ3NDg5MjY5Niw1ODg4OTAyNDQsNDY3NT
+E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
+NSwxMjQ4NTI2NTQ2XX0=
 -->
