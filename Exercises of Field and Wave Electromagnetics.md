@@ -194,11 +194,11 @@
 				b\tan\theta_0+z_p=0 \\
 				b\tan\theta_1+z_p=L
 			\end{cases} \\
-		&=
+		&= \vec{a_z} \frac{\mu_0M_0}{2}(\frac{z}{\sqrt{z^2+b^2}} - \frac{z-L}{\sqrt{(z-L)^2+b^2}})
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTQ5MzY5OCw1ODg4OTAyNDQsNDY3NT
-E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
-NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbLTEyMDIzMzMxMjAsNTg4ODkwMjQ0LDQ2Nz
+UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
+NzUsMTI0ODUyNjU0Nl19
 -->
