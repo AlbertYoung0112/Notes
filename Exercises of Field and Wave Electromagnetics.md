@@ -129,8 +129,11 @@
 		It's obvious the boundary constrains are satisfied.
 		The ***uniqueness of the electrostatic solutions*** tells us that the solution above is the only solution.
 
-## Static Magnet
+## Static Magnetic Fields
+
+### Example 6-8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NTE1MDU1LDE2NTExNzYzMDMsLTE2OT
-E4MjQ5NjMsLTc0MzI1OTg3NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbNTg4ODkwMjQ0LDQ2NzUxNTA1NSwxNjUxMT
+c2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4NzUsMTI0ODUyNjU0
+Nl19
 -->
