@@ -149,13 +149,16 @@
 									&= \vec{a_{\phi}} M_0
 		\end{aligned}
 	$$
+	It's shown that the current density 
 	From the $Biot-Savart's Law$:
 	$$
 		\begin{aligned} 
-		\vec{B} = \oint_{c^{'}} d\vec{B}
-	d\vec{B} = \frac{\mu_0I}{4\pi} (\frac{d\vec{l}'\times\vec{R}}{||\vec{R}||^3})$$
+		\vec{B} &= \oint_{c^{'}} d\vec{B}\\
+	d\vec{B} &= \frac{\mu_0I}{4\pi} (\frac{d\vec{l}'\times\vec{R}}{||\vec{R}||^3})
+		\end{aligned}
+	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTMxNDI3ODEsNTg4ODkwMjQ0LDQ2Nz
-UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
-NzUsMTI0ODUyNjU0Nl19
+eyJoaXN0b3J5IjpbMTMyNzk3NDkzNSw1ODg4OTAyNDQsNDY3NT
+E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
+NSwxMjQ4NTI2NTQ2XX0=
 -->
