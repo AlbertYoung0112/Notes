@@ -137,17 +137,18 @@
 
 	![Figure for Example 6-8](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E68.png?raw=true)
 
-	Determine the magnetic flux density on the axis of a uniformly magnetized circular cylinder of a magnetic material. The cylinder has a radius $b$, length $L$, and axial magnetization $\vec{M}$.
+	Determine the magnetic flux density on the axis of a uniformly magnetized circular cylinder of a magnetic material. The cylinder has a radius $b$, length $L$, and axial magnetization $\vec{M} = \vec{a_x}M_0$.
 - Solution:
 
 	Determine the current density:
 	$$
 		\begin{aligned}
-			\vec{J}_m = \nabla^{'}
+			\vec{J}_m &= \nabla^{'} \times \vec{M} = 0 \\
+			\vec{J}_{ms} &= 
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNTY2MzY1LDU4ODg5MDI0NCw0Njc1MT
-UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
-LDEyNDg1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbLTc1OTg3MTkwMiw1ODg4OTAyNDQsNDY3NT
+E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
+NSwxMjQ4NTI2NTQ2XX0=
 -->
