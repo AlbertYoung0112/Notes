@@ -132,8 +132,14 @@
 ## Static Magnetic Fields
 
 ### Example 6-8
+
+- Problem:
+
+	![Figu]
+	Determine the magnetic flux density on the axis of a uniformly magnetized circular cylinder of a magnetic material. The cylinder has a radius $b$, length $L$, and axial magnetization $\vec{M}$.
+- Solution:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4ODkwMjQ0LDQ2NzUxNTA1NSwxNjUxMT
-c2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4NzUsMTI0ODUyNjU0
-Nl19
+eyJoaXN0b3J5IjpbMjA0MTgzMzg2LDU4ODg5MDI0NCw0Njc1MT
+UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
+LDEyNDg1MjY1NDZdfQ==
 -->
