@@ -149,8 +149,10 @@
 									&= \vec{a_{\phi}} M_0
 		\end{aligned}
 	$$
+	From the $Biot-Savart's Law$:
+	$$\vec{B}=\int_v$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzE5NjcyNiw1ODg4OTAyNDQsNDY3NT
+eyJoaXN0b3J5IjpbMTc0MzE3MTQ1NCw1ODg4OTAyNDQsNDY3NT
 E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
 NSwxMjQ4NTI2NTQ2XX0=
 -->
