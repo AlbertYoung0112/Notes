@@ -150,10 +150,12 @@
 		\end{aligned}
 	$$
 	From the $Biot-Savart's Law$:
-	$$ \vec{B} = \oint_{c^{'}} d\vec{B}$$
-	$$ d\vec{B} = \frac{\mu_0I}{4\pi}$$
+	$$
+		\begin{aligned} 
+		\vec{B} = \oint_{c^{'}} d\vec{B}
+	d\vec{B} = \frac{\mu_0I}{4\pi} (\frac{d\vec{l}'\times\vec{R}}{||\vec{R}||^3})$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4Nzk1NDczLDU4ODg5MDI0NCw0Njc1MT
-UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
-LDEyNDg1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyMTMxNDI3ODEsNTg4ODkwMjQ0LDQ2Nz
+UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
+NzUsMTI0ODUyNjU0Nl19
 -->
