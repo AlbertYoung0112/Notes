@@ -143,12 +143,13 @@
 	Determine the current density:
 	$$
 		\begin{aligned}
-			\vec{J}_m &= \nabla^{'} \times \vec{M} = 0 \\
-			\vec{J}_{ms} &= 
+			\vec{J}_m 		&= \nabla^{'} \times \vec{M} = 0 \\
+			\vec{J}_{ms} 	&= \vec{M} \times \vec{a_n}^{'} \\
+									&= (\vec{a_z}M_0) \times \vec{a_r} 
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTg3MTkwMiw1ODg4OTAyNDQsNDY3NT
-E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
-NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbLTI1Njg4MTkwLDU4ODg5MDI0NCw0Njc1MT
+UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
+LDEyNDg1MjY1NDZdfQ==
 -->
