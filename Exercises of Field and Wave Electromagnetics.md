@@ -150,9 +150,10 @@
 		\end{aligned}
 	$$
 	From the $Biot-Savart's Law$:
-	$$\vec{B}=\int_v$$
+	$$ \vec{B} = \oint_{c^{'}} d\vec{B}$$
+	$$ d\vec{B} = \frac{\mu_0I}{4\pi}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MzE3MTQ1NCw1ODg4OTAyNDQsNDY3NT
-E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
-NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbOTc4Nzk1NDczLDU4ODg5MDI0NCw0Njc1MT
+UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
+LDEyNDg1MjY1NDZdfQ==
 -->
