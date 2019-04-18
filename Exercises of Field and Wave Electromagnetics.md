@@ -176,11 +176,15 @@
 			\vec{a_z}\frac { b } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
 		) d\phi \\
 		\vec{B} &= \oint_{c^{'}} d\vec{B}\\
-		&= \int
+		&= \int_0^{L}\int_0^{2\pi}d\vec{B} \\
+		&= \frac{ \mu_0 M_0 b dz'}{4 \pi} \int_0^{L}\int_0^{2\pi}(
+			\vec{a_r}\frac { (z_p-z)} { ((z_p-z)^2+b^2)^{\frac{3}{2}} } +
+			\vec{a_z}\frac { b } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
+		) d\phi \\
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTYxNzg5MCw1ODg4OTAyNDQsNDY3NT
-E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
-NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbODkxMjY3MjQ3LDU4ODg5MDI0NCw0Njc1MT
+UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
+LDEyNDg1MjY1NDZdfQ==
 -->
