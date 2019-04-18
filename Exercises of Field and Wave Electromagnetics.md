@@ -165,12 +165,13 @@
 			\frac{d\vec{l'} \times ((z_p-z)\vec{a_z}-b\vec{a_r})}{||(z_p-z)\vec{a_z}-b\vec{a_r}||^3}
 			) \\
 		&= \frac{ \mu_0 M_0 dz'}{4 \pi} (
-			\frac{}{((z_p-z)^2+b^2)^{\frac{3}{2}}}
+			\frac { bd\phi(\vec{a_{\phi}})} 
+				{ ((z_p-z)^2+b^2)^{\frac{3}{2}} }
 		)
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDI1ODA2MSw1ODg4OTAyNDQsNDY3NT
+eyJoaXN0b3J5IjpbMTY3MTUzNDQ5Niw1ODg4OTAyNDQsNDY3NT
 E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
 NSwxMjQ4NTI2NTQ2XX0=
 -->
