@@ -128,7 +128,9 @@
 		![Figure for Example 4-7](https://github.com/AlbertYoung0112/Notes/blob/master/FWE-Img/FWE_E47_boundaryGrid.png?raw=true)
 		It's obvious the boundary constrains are satisfied.
 		The ***uniqueness of the electrostatic solutions*** tells us that the solution above is the only solution.
+
+## Static Magnetics
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNz
-QzMjU5ODc1LDEyNDg1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbMTE2OTA3NzcwOCwxNjUxMTc2MzAzLC0xNj
+kxODI0OTYzLC03NDMyNTk4NzUsMTI0ODUyNjU0Nl19
 -->
