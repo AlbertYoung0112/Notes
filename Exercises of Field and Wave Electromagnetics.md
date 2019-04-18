@@ -165,16 +165,17 @@
 			\frac{d\vec{l'} \times ((z_p-z)\vec{a_z}-b\vec{a_r})}{||(z_p-z)\vec{a_z}-b\vec{a_r}||^3}
 			) \\
 		&= \frac{ \mu_0 M_0 dz'}{4 \pi} (
-			\frac { bd\phi( (z_p-z)\vec{a_{\phi}}\times\vec{a_z} - b\vec{a_{\phi}}\times\vec{a_r})} 
+			\frac { bd\phi( (z_p-z)\vec{a_{\phi}}\times\vec{a_z} - bd\phi\vec{a_{\phi}}\times\vec{a_r})} 
 				{ ((z_p-z)^2+b^2)^{\frac{3}{2}} }
 		) \\
-		&= \frac{ \mu_0 M_0 dz'}{4 \pi} (
-			
+		&= \frac{ \mu_0 M_0 b dz'}{4 \pi} (
+			\vec{a_r}\frac { (z_p-z)} { ((z_p-z)^2+b^2)^{\frac{3}{2}} } d\phi +
+			\vec{a_z}\frac { b } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } d\phi
 		)
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDY5MTUxNiw1ODg4OTAyNDQsNDY3NT
+eyJoaXN0b3J5IjpbLTU2NTM0NTM4MSw1ODg4OTAyNDQsNDY3NT
 E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
 NSwxMjQ4NTI2NTQ2XX0=
 -->
