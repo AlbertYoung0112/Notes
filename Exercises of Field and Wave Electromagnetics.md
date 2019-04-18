@@ -189,11 +189,16 @@
 		& \xlongequal{z=btan\theta+z_p} \vec{a_z} \frac{ \mu_0 M_0 b^2}{2 } 
 			\int_{\theta_0}^{\theta_1}(
 				\frac { \cos\theta } { b^2} 
-			) d\theta, \th
+			) d\theta,
+			\begin{cases}
+				b\tan\theta_0+z_p=0 \\
+				b\tan\theta_1+z_p=L
+			\end{cases} \\
+		&=
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDg5MjY5Niw1ODg4OTAyNDQsNDY3NT
+eyJoaXN0b3J5IjpbMTIxOTQ5MzY5OCw1ODg4OTAyNDQsNDY3NT
 E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
 NSwxMjQ4NTI2NTQ2XX0=
 -->
