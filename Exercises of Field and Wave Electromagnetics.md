@@ -177,14 +177,23 @@
 		) d\phi \\
 		\vec{B} &= \oint_{c^{'}} d\vec{B}\\
 		&= \int_0^{L}\int_0^{2\pi}d\vec{B} \\
-		&= \frac{ \mu_0 M_0 b dz'}{4 \pi} \int_0^{L}\int_0^{2\pi}(
-			\vec{a_r}\frac { (z_p-z)} { ((z_p-z)^2+b^2)^{\frac{3}{2}} } +
-			\vec{a_z}\frac { b } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
-		) d\phi \\
+		&= \frac{ \mu_0 M_0 b}{4 \pi} 
+			\int_0^{L}\int_0^{2\pi}(
+				\vec{a_r}\frac { (z_p-z)} { ((z_p-z)^2+b^2)^{\frac{3}{2}} } +
+				\vec{a_z}\frac { b } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
+			) d\phi dz \\
+		&= \vec{a_z} \frac{ \mu_0 M_0 b^2}{2 } 
+			\int_0^{L}(
+				\frac { 1 } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
+			) dz \\
+		& \xlongequal{z=btan\theta+z_p} \vec{a_z} \frac{ \mu_0 M_0 b^2}{2 } 
+			\int_{\theta_0}^{\theta_1}(
+				\frac { 1 } { ((z_p-z)^2+b^2)^{\frac{3}{2}} } 
+			) dz 
 		\end{aligned}
 	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMjY3MjQ3LDU4ODg5MDI0NCw0Njc1MT
-UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
-LDEyNDg1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbLTExMjM0Mzk2MTgsNTg4ODkwMjQ0LDQ2Nz
+UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
+NzUsMTI0ODUyNjU0Nl19
 -->
