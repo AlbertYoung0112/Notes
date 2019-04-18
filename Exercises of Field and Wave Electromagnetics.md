@@ -139,8 +139,9 @@
 
 	Determine the magnetic flux density on the axis of a uniformly magnetized circular cylinder of a magnetic material. The cylinder has a radius $b$, length $L$, and axial magnetization $\vec{M}$.
 - Solution:
+	We use 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU4NjY3MjAsNTg4ODkwMjQ0LDQ2Nz
-UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
-NzUsMTI0ODUyNjU0Nl19
+eyJoaXN0b3J5IjpbLTYxMDQyNzY5Myw1ODg4OTAyNDQsNDY3NT
+E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
+NSwxMjQ4NTI2NTQ2XX0=
 -->
