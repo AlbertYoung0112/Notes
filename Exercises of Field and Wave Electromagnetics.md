@@ -157,9 +157,14 @@
 	d\vec{B} &= \frac{\mu_0I}{4\pi} (\frac{d\vec{l}'\times\vec{R}}{||\vec{R}||^3})
 		\end{aligned}
 	$$
-	Substitute the $I$ with $M_0dz'$ and $\vec{R}$ with $$
+	Substitute the $I$ with $M_0dz'$ and $\vec{R}$ with $(z_p-z)\vec{a_z}-b\vec{a_r}$, yielding:
+	$$
+		\begin{aligned}
+		d\vec{B} &= 
+		\end{aligned}
+	$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzODI5Myw1ODg4OTAyNDQsNDY3NT
-E1MDU1LDE2NTExNzYzMDMsLTE2OTE4MjQ5NjMsLTc0MzI1OTg3
-NSwxMjQ4NTI2NTQ2XX0=
+eyJoaXN0b3J5IjpbLTE2MjI1NTQyMTEsNTg4ODkwMjQ0LDQ2Nz
+UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
+NzUsMTI0ODUyNjU0Nl19
 -->
