@@ -149,7 +149,7 @@
 									&= \vec{a_{\phi}} M_0
 		\end{aligned}
 	$$
-	It's shown that there is no equivalent volume current density, and the equivalent surface current $I=||\vec{J}_{ms}||dz'$
+	It's shown that there is no equivalent volume current density, and the equivalent surface current $I=||\vec{J}_{ms}||dz'$.
 	From the $Biot-Savart's Law$:
 	$$
 		\begin{aligned} 
@@ -157,8 +157,9 @@
 	d\vec{B} &= \frac{\mu_0I}{4\pi} (\frac{d\vec{l}'\times\vec{R}}{||\vec{R}||^3})
 		\end{aligned}
 	$$
+	Substitude 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NzYxMzA5LDU4ODg5MDI0NCw0Njc1MT
-UwNTUsMTY1MTE3NjMwMywtMTY5MTgyNDk2MywtNzQzMjU5ODc1
-LDEyNDg1MjY1NDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTQyMTQyNDUsNTg4ODkwMjQ0LDQ2Nz
+UxNTA1NSwxNjUxMTc2MzAzLC0xNjkxODI0OTYzLC03NDMyNTk4
+NzUsMTI0ODUyNjU0Nl19
 -->
